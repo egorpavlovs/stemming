@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ruby-stemmer (0.9.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ruby-stemmer
+
+BUNDLED WITH
+   1.16.6
