@@ -1,0 +1,7 @@
+bad
+request
+your
+browser
+send
+invalid
+request

@@ -1,0 +1,6 @@
+bad
+request
+your
+browser
+sent
+invalid

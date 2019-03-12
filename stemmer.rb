@@ -1,9 +1,11 @@
 require 'rubygems'
 require 'lingua/stemmer'
 require 'fileutils'
+require "lemmatizer"
 
 DOCS_HOME_PATH = 'docs'
 S_DOCS_HOME_PATH = 'stemming_docs'
+L_DOCS_HOME_PATH = 'lemm_docs'
 
 class Stemmer
   class << self
@@ -13,11 +15,19 @@ class Stemmer
         content = File.open([path, "content.txt"].join("/"), "r"){ |f| f.read }
         stop_words = File.open("stop_words", "r"){ |f| f.read }.split("\n")
 
-        tokenize_words = tokenize(content, stop_words).map { |word| Lingua.stemmer(word) unless word.nil? }.compact
-        s_path = FileUtils.mkdir_p([S_DOCS_HOME_PATH, path.split("/").drop(1)].flatten.join("/"))
-        puts s_path
-        tokenize_words.uniq.each{ |word|
-          File.open([s_path, "content.txt"].flatten.join("/"), "a") {|file| file.puts(word)}
+        # tokenize_words = tokenize(content, stop_words).map { |word| Lingua.stemmer(word) unless word.nil? }.compact
+        # s_path = FileUtils.mkdir_p([S_DOCS_HOME_PATH, path.split("/").drop(1)].flatten.join("/"))
+        lem = Lemmatizer.new
+        tokenize_words_lemm = tokenize(content, stop_words).map { |word| lem.lemma(word) unless word.nil? }.compact
+
+        # puts s_path
+        # tokenize_words.uniq.each{ |word|
+        #   File.open([s_path, "content.txt"].flatten.join("/"), "a") {|file| file.puts(word)}
+        # }
+        l_path = FileUtils.mkdir_p([L_DOCS_HOME_PATH, path.split("/").drop(1)].flatten.join("/"))
+        puts l_path
+        tokenize_words_lemm.each{ |word|
+          File.open([l_path, "content.txt"].flatten.join("/"), "a") {|file| file.puts(word)}
         }
       end
     end
@@ -32,4 +42,4 @@ class Stemmer
 end
 
 s = Stemmer.all_docs
-puts "All stemming! Check #{S_DOCS_HOME_PATH}/"
+puts "All lemming! Check #{S_DOCS_HOME_PATH}/"
