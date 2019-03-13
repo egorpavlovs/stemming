@@ -1,0 +1,830 @@
+
+
+	
+	Currency Converter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visit Abu Dhabi
+
+
+
+
+
+
+Visit Abu Dhabi
+
+
+
+
+
+
+Календарь событий
+
+
+
+
+
+
+Бюро Конвенции
+
+
+
+
+
+
+Департамент туризма и культуры
+
+
+
+
+
+
+
+
+ 
+Visit Abu Dhabi
+
+
+
+
+Календарь событий
+
+
+
+
+Бюро Конвенции
+
+
+
+
+Департамент туризма и культуры
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+select
+
+
+EnglishالعربيةFrançaisDeutschItalianoРусскийPortuguêsDutch日本語简体中文
+
+
+
+
+
+
+
+
+МАРШРУТ
+
+Основные темыОстров НурайПарк дикой природы Arabian Wildlife ParkПляж КорнишЗакажите тур на трассу Яс Марина
+
+
+
+Острова
+
+
+
+
+
+
+Направления
+Столица ОАЭАль-АйнАль-ГарбияОстрова
+Остров ЯсОстров Сир Бани ЯсОстров Саадият Остров Аль-МарьяОстров РимNurai IslandОстров ДельмаМоре
+Пляжи и пляжные клубыКруизы и рыбалкаПристаниПарусники, каякинг, дайвинг и водный спортInterContinental BayshoreОтдых и развлечения в пустыне
+Пустая четвертьЭтнографическая деревня Arabian NightsСафари в пустыне и кэмпингТуроператор Al Badayah Eyes TourismРалли по дюнамРалли на внедорожниках Сэндбординг и катание на лыжах по дюнам Культура и традиции
+Объекты ЮНЕСКОТрадиции судоходства и морская историяАрабская гостеприимствоТрадицииМестная кухняКультурный район СаадиятМесяц Рамадан
+Что такое Рамадан и когда его празднуютЭтикет РамаданаЖизнь Абу-Даби во время РамаданаСухур и ИфтарПриезжайте в месяц Рамадан
+
+
+
+ОТДЫХ
+
+Основные темыБольшая Мечеть Шейха ЗайдаТематический парк Ferrari World Abu DhabiПарк водных развлечений Yas Waterworld
+
+
+
+Бары и рестораны
+
+
+
+
+
+
+Аттракционы и достопримечательности
+Семейные развлеченияАрхитектурные чудесаКультурные достопримечательностиВпечатления
+ГОЛЬФ В АБУ-ДАБИФильмы в Абу-Даби (#InAbuDhabi)Автоспорт и картинг Водный спортСпорт и клубыТурыКультурные мероприятияВерховая ездаРазвлеченияБиблиотекиЗабронируйте свой турИнститут National ArchivesВаша удивительная история о Манчестер СитиШоппинг
+Шоппинг класса люксТорговые центрыДосуг и обществоЦентры и магазины сниженных цен Традиционные рынки и базарыПокупки и сувенирыДосуг
+Выгодные предложения #InAbuDhabiВелнес и спаБары и рестораныМероприятияПланируйте свою поездку на F1®
+Покупайте билеты на F1®Бронируйте билеты на F1® и турпакетыИнформация о гонке F1®Развлекательная программаОткройте для себя Абу-ДабиПутешествия по острову ЯсЧасто задаваемые вопросы
+
+
+
+Путешествие
+
+Основные темыРасписание молитвМини разговорник арабскогоПолезные приложения
+
+
+
+Авиарейсы
+
+
+
+
+
+
+Авиарейсы
+Поиск рейсовМеждународный аэропорт Абу-ДабиEtihad AirwaysДругие аэропортыДействующие авиалинииЧем заняться во время транзита #InAbuDhabiПо эмирату
+Туры и туроператорыАренда автомобилей и MawaqifТаксиАвтобусыАвтобусы Yas ExpressРейсы до острова Сир Бани ЯсводныхПрокат велосипедовПаром Jalboot FerryКомпания Falcon AviationКруизы
+Главные фактыМировые круизыРасписание круизовПорт ЗайдТерминал Абу-ДабиЭкскурсии по побережьюОператоры ОАЭКруизная остановка на острове Сир-Бани-ЯсКруизы #InAbuDhabi MallsНеобходимая информация
+Получение визыДля экстренных случаевЖенщины и детиДля людей с ограниченными возможностямиКлимат и одеждаКультура и образ жизниЕда и кухняРелигия и РамаданВремя молитвыЯзык и полезные фразыАрабский мини-разговорникДеньгиКонвертер валютТуринформбюроИностранные посольства в ОАЭНалоги, обслуживание и чаевыеГосударственные праздникиПолезные приложения
+
+
+
+ОТЕЛЬ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+МАРШРУТ
+
+Направления
+Столица ОАЭАль-АйнАль-ГарбияОстрова
+Остров ЯсОстров Сир Бани ЯсОстров Саадият Остров Аль-МарьяОстров РимNurai IslandОстров ДельмаМоре
+Пляжи и пляжные клубыКруизы и рыбалкаПристаниПарусники, каякинг, дайвинг и водный спортInterContinental BayshoreОтдых и развлечения в пустыне
+Пустая четвертьЭтнографическая деревня Arabian NightsСафари в пустыне и кэмпингТуроператор Al Badayah Eyes TourismРалли по дюнамРалли на внедорожниках Сэндбординг и катание на лыжах по дюнам Культура и традиции
+Объекты ЮНЕСКОТрадиции судоходства и морская историяАрабская гостеприимствоТрадицииМестная кухняКультурный район СаадиятМесяц Рамадан
+Что такое Рамадан и когда его празднуютЭтикет РамаданаЖизнь Абу-Даби во время РамаданаСухур и ИфтарПриезжайте в месяц Рамадан
+
+ОТДЫХ
+
+Аттракционы и достопримечательности
+Семейные развлеченияАрхитектурные чудесаКультурные достопримечательностиВпечатления
+ГОЛЬФ В АБУ-ДАБИФильмы в Абу-Даби (#InAbuDhabi)Автоспорт и картинг Водный спортСпорт и клубыТурыКультурные мероприятияВерховая ездаРазвлеченияБиблиотекиЗабронируйте свой турИнститут National ArchivesВаша удивительная история о Манчестер СитиШоппинг
+Шоппинг класса люксТорговые центрыДосуг и обществоЦентры и магазины сниженных цен Традиционные рынки и базарыПокупки и сувенирыДосуг
+Выгодные предложения #InAbuDhabiВелнес и спаБары и рестораныМероприятияПланируйте свою поездку на F1®
+Покупайте билеты на F1®Бронируйте билеты на F1® и турпакетыИнформация о гонке F1®Развлекательная программаОткройте для себя Абу-ДабиПутешествия по острову ЯсЧасто задаваемые вопросы
+
+Путешествие
+
+Авиарейсы
+Поиск рейсовМеждународный аэропорт Абу-ДабиEtihad AirwaysДругие аэропортыДействующие авиалинииЧем заняться во время транзита #InAbuDhabiПо эмирату
+Туры и туроператорыАренда автомобилей и MawaqifТаксиАвтобусыАвтобусы Yas ExpressРейсы до острова Сир Бани ЯсводныхПрокат велосипедовПаром Jalboot FerryКомпания Falcon AviationКруизы
+Главные фактыМировые круизыРасписание круизовПорт ЗайдТерминал Абу-ДабиЭкскурсии по побережьюОператоры ОАЭКруизная остановка на острове Сир-Бани-ЯсКруизы #InAbuDhabi MallsНеобходимая информация
+Получение визыДля экстренных случаевЖенщины и детиДля людей с ограниченными возможностямиКлимат и одеждаКультура и образ жизниЕда и кухняРелигия и РамаданВремя молитвыЯзык и полезные фразыАрабский мини-разговорникДеньгиКонвертер валютТуринформбюроИностранные посольства в ОАЭНалоги, обслуживание и чаевыеГосударственные праздникиПолезные приложения
+
+ОТЕЛЬ
+
+
+
+
+
+Следите за нашими новостями
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Конвертер валют
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Конвертировать данную сумму
+
+
+
+Please enter the amount
+Invalid amount format
+
+
+
+
+
+
+
+
+Исходная валюта
+
+
+
+
+
+
+select
+
+
+AFA - Afghanistan AfghaniALL - Albanian LekDZD - Algerian DinarARS - Argentine PesoAWG - Aruba FlorinAUD - Australian DollarBSD - Bahamian DollarBHD - Bahraini DinarBDT - Bangladesh TakaBBD - Barbados DollarBZD - Belize DollarBMD - Bermuda DollarBTN - Bhutan NgultrumBOB - Bolivian BolivianoBWP - Botswana PulaBRL - Brazilian RealGBP - British PoundBND - Brunei DollarBIF - Burundi FrancXOF - CFA Franc (BCEAO)XAF - CFA Franc (BEAC)KHR - Cambodia RielCAD - Canadian DollarCVE - Cape Verde EscudoKYD - Cayman Islands DollarCLP - Chilean PesoCNY - Chinese YuanCOP - Colombian PesoKMF - Comoros FrancCRC - Costa Rica ColonHRK - Croatian KunaCUP - Cuban PesoCYP - Cyprus PoundCZK - Czech KorunaDKK - Danish KroneDJF - Dijibouti FrancDOP - Dominican PesoXCD - East Caribbean DollarEGP - Egyptian PoundSVC - El Salvador ColonEEK - Estonian KroonETB - Ethiopian BirrEUR - EuroFKP - Falkland Islands PoundGMD - Gambian DalasiGHC - Ghanian CediGIP - Gibraltar PoundXAU - Gold OuncesGTQ - Guatemala QuetzalGNF - Guinea FrancGYD - Guyana DollarHTG - Haiti GourdeHNL - Honduras LempiraHKD - Hong Kong DollarHUF - Hungarian ForintISK - Iceland KronaINR - Indian RupeeIDR - Indonesian RupiahIQD - Iraqi DinarJMD - Jamaican DollarJPY - Japanese YenJOD - Jordanian DinarKZT - Kazakhstan TengeKES - Kenyan ShillingKRW - Korean WonKWD - Kuwaiti DinarLAK - Lao KipLVL - Latvian LatLBP - Lebanese PoundLSL - Lesotho LotiLRD - Liberian DollarLYD - Libyan DinarLTL - Lithuanian LitaMOP - Macau PatacaMKD - Macedonian DenarMGF - Malagasy FrancMWK - Malawi KwachaMYR - Malaysian RinggitMVR - Maldives RufiyaaMTL - Maltese LiraMRO - Mauritania OugulyaMUR - Mauritius RupeeMXN - Mexican PesoMDL - Moldovan LeuMNT - Mongolian TugrikMAD - Moroccan DirhamMZM - Mozambique MeticalMMK - Myanmar KyatNAD - Namibian DollarNPR - Nepalese RupeeANG - Neth Antilles GuilderNZD - New Zealand DollarNIO - Nicaragua CordobaNGN - Nigerian NairaKPW - North Korean WonNOK - Norwegian KroneOMR - Omani RialXPF - Pacific FrancPKR - Pakistani RupeeXPD - Palladium OuncesPAB - Panama BalboaPGK - Papua New Guinea KinaPYG - Paraguayan GuaraniPEN - Peruvian Nuevo SolPHP - Philippine PesoXPT - Platinum OuncesPLN - Polish ZlotyQAR - Qatar RialROL - Romanian LeuRUB - Russian RoubleWST - Samoa TalaSTD - Sao Tome DobraSAR - Saudi Arabian RiyalSCR - Seychelles RupeeSLL - Sierra Leone LeoneXAG - Silver OuncesSGD - Singapore DollarSKK - Slovak KorunaSIT - Slovenian TolarSBD - Solomon Islands DollarSOS - Somali ShillingZAR - South African RandLKR - Sri Lanka RupeeSHP - St Helena PoundSDD - Sudanese DinarSRG - Surinam GuilderSZL - Swaziland LilageniSEK - Swedish KronaTRY - Turkey LiraCHF - Swiss FrancSYP - Syrian PoundTWD - Taiwan DollarTZS - Tanzanian ShillingTHB - Thai BahtTOP - Tonga Pa'angaTTD - Trinidad & Tobago DollarTND - Tunisian DinarTRL - Turkish LiraUSD - U.S. DollarAED - UAE DirhamUGX - Ugandan ShillingUAH - Ukraine HryvniaUYU - Uruguayan New PesoVUV - Vanuatu VatuVEB - Venezuelan BolivarVND - Vietnam DongYER - Yemen RiyalYUM - Yugoslav DinarZMK - Zambian KwachaZWD - Zimbabwe Dollar
+
+
+Please select a currency
+
+
+
+Расчетная валюта   
+
+
+
+
+
+
+select
+
+
+AFA - Afghanistan AfghaniALL - Albanian LekDZD - Algerian DinarARS - Argentine PesoAWG - Aruba FlorinAUD - Australian DollarBSD - Bahamian DollarBHD - Bahraini DinarBDT - Bangladesh TakaBBD - Barbados DollarBZD - Belize DollarBMD - Bermuda DollarBTN - Bhutan NgultrumBOB - Bolivian BolivianoBWP - Botswana PulaBRL - Brazilian RealGBP - British PoundBND - Brunei DollarBIF - Burundi FrancXOF - CFA Franc (BCEAO)XAF - CFA Franc (BEAC)KHR - Cambodia RielCAD - Canadian DollarCVE - Cape Verde EscudoKYD - Cayman Islands DollarCLP - Chilean PesoCNY - Chinese YuanCOP - Colombian PesoKMF - Comoros FrancCRC - Costa Rica ColonHRK - Croatian KunaCUP - Cuban PesoCYP - Cyprus PoundCZK - Czech KorunaDKK - Danish KroneDJF - Dijibouti FrancDOP - Dominican PesoXCD - East Caribbean DollarEGP - Egyptian PoundSVC - El Salvador ColonEEK - Estonian KroonETB - Ethiopian BirrEUR - EuroFKP - Falkland Islands PoundGMD - Gambian DalasiGHC - Ghanian CediGIP - Gibraltar PoundXAU - Gold OuncesGTQ - Guatemala QuetzalGNF - Guinea FrancGYD - Guyana DollarHTG - Haiti GourdeHNL - Honduras LempiraHKD - Hong Kong DollarHUF - Hungarian ForintISK - Iceland KronaINR - Indian RupeeIDR - Indonesian RupiahIQD - Iraqi DinarJMD - Jamaican DollarJPY - Japanese YenJOD - Jordanian DinarKZT - Kazakhstan TengeKES - Kenyan ShillingKRW - Korean WonKWD - Kuwaiti DinarLAK - Lao KipLVL - Latvian LatLBP - Lebanese PoundLSL - Lesotho LotiLRD - Liberian DollarLYD - Libyan DinarLTL - Lithuanian LitaMOP - Macau PatacaMKD - Macedonian DenarMGF - Malagasy FrancMWK - Malawi KwachaMYR - Malaysian RinggitMVR - Maldives RufiyaaMTL - Maltese LiraMRO - Mauritania OugulyaMUR - Mauritius RupeeMXN - Mexican PesoMDL - Moldovan LeuMNT - Mongolian TugrikMAD - Moroccan DirhamMZM - Mozambique MeticalMMK - Myanmar KyatNAD - Namibian DollarNPR - Nepalese RupeeANG - Neth Antilles GuilderNZD - New Zealand DollarNIO - Nicaragua CordobaNGN - Nigerian NairaKPW - North Korean WonNOK - Norwegian KroneOMR - Omani RialXPF - Pacific FrancPKR - Pakistani RupeeXPD - Palladium OuncesPAB - Panama BalboaPGK - Papua New Guinea KinaPYG - Paraguayan GuaraniPEN - Peruvian Nuevo SolPHP - Philippine PesoXPT - Platinum OuncesPLN - Polish ZlotyQAR - Qatar RialROL - Romanian LeuRUB - Russian RoubleWST - Samoa TalaSTD - Sao Tome DobraSAR - Saudi Arabian RiyalSCR - Seychelles RupeeSLL - Sierra Leone LeoneXAG - Silver OuncesSGD - Singapore DollarSKK - Slovak KorunaSIT - Slovenian TolarSBD - Solomon Islands DollarSOS - Somali ShillingZAR - South African RandLKR - Sri Lanka RupeeSHP - St Helena PoundSDD - Sudanese DinarSRG - Surinam GuilderSZL - Swaziland LilageniSEK - Swedish KronaTRY - Turkey LiraCHF - Swiss FrancSYP - Syrian PoundTWD - Taiwan DollarTZS - Tanzanian ShillingTHB - Thai BahtTOP - Tonga Pa'angaTTD - Trinidad & Tobago DollarTND - Tunisian DinarTRL - Turkish LiraUSD - U.S. DollarAED - UAE DirhamUGX - Ugandan ShillingUAH - Ukraine HryvniaUYU - Uruguayan New PesoVUV - Vanuatu VatuVEB - Venezuelan BolivarVND - Vietnam DongYER - Yemen RiyalYUM - Yugoslav DinarZMK - Zambian KwachaZWD - Zimbabwe Dollar
+
+
+Please select a currency
+
+
+
+
+
+
+
+
+
+Отказ от ответственности
+Услуга конвертации валют предоставляется исключительно для ознакомления и не предназначена для использования в коммерческих целях. Мы сделали все возможное для получения верных и своевременных валютных курсов. Тем не менее, мы не гарантируем верность, своевременность, надежность или достоверность курсов. Используя данную услугу, вы тем самым соглашаетесь, что, используя или полагаясь на данные курсы конвертации, вы берете на себя все связанные с этим риски. Ни в коем случае Visit Abu Dhabi или другие источники данных не несут ответственность за прямой или косвенный ущерб, побочные или штрафные убытки, связанные с использованием данной услуги.
+
+
+
+
+
+
+
+Оставьте свой отзыв
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Не пропустите
+Все
+
+
+
+
+
+Музыка
+Гип-гип-Голливуд!
+
+октября 04, 2019
+
+Музыка
+Сольный фортепианный концерт Ран Дзя
+
+апреля 19, 2019
+
+Спорт
+Велогонки под эгидой Спортивного совета Абу-Даби
+
+марта 30, 2019
+
+Музыка
+«Драгоценности» Джорджа Баланчина в исполнении труппы Парижской Оперы
+
+марта 29, 2019 - марта 30, 2019
+
+Музыка
+«Тени» (Sombras) Сары Барас появятся на сцене Абу-Даби
+
+марта 21, 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Путеводители, карты и обои
+
+Открывайте, смотрите и скачивайте всю основную информацию об Абу-Даби
+
+
+
+
+
+Конгресс-бюро Абу-Даби
+
+Новая сила в мире деловых мероприятий - ваше "Преимущество Абу-Даби"
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ваша удивительная история
+
+начинается прямо сейчас
+
+
+Ссылки быстрого доступа
+
+
+Главная
+
+
+Путешествуй
+
+
+Что посмотреть и чем заняться
+
+
+Проживание
+
+
+Бары и рестораны
+
+
+Велнес и спа
+
+
+ События
+
+
+Мультимедиа
+
+
+Загрузки
+
+
+Вопросы и ответы
+
+
+Планировщик поездки
+
+
+Контакты
+
+
+Рассылка
+
+
+RSS-каналы
+
+
+
+
+
+Международные офисы
+
+Найдите ближайший к Вам контактный центр
+
+
+
+
+
+
+Узнайте впечатления других путешественников об Абу-Даби на сайте TripAdvisor.
+
+
+
+
+Контактные данные
+Абу-Даби
+я/я 94000, Абу-Даби, ОАЭ
+Тел.: +971 2 444 0444, Факс: +971 2 444 0400, Эл.почта: [email protected]
+Вебсайт: www.visitabudhabi.ae
+
+Бесплатный звонок в ОАЭ: 800 555
+Международный бесплатный звонок: +971 2 666 4442
+
+Подписаться на рассылку новостей
+
+Следите за новостями и событиями
+
+
+
+
+
+
+
+Следите за нашими новостями
+
+Присоединяйтесь к нашему сообществу
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2019 Visit Abu Dhabi, все права защищены
+
+
+Политика конфиденциальности
+
+
+Условия пользования
+
+
+ Карта сайта
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+

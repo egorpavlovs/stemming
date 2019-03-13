@@ -1,0 +1,8 @@
+pdf
+obj
+endobj
+obj
+stream
+tv
+adaetde
+bw

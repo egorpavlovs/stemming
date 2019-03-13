@@ -1,0 +1,10 @@
+bad
+request
+bad
+request
+your
+browser
+send
+request
+server
+understand

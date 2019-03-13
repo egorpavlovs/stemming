@@ -1,0 +1,8 @@
+pdf
+obj
+metadata
+viewerpreferences
+endobj
+obj
+endobj
+obj

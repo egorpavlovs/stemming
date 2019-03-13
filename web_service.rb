@@ -16,36 +16,39 @@ class WebService
       words = %w(architecture art bar cabaret concert creative creativity cultural culture design  festival gallery gastronomy heritage historic history local cousine mansion monument museum music nationality nightclub nightlife oenology palace party restaurant sightseeing theatre university customs tradition traditional excursion)
 
       # "barcelonaconventionbureau"=>"http://www.barcelonaconventionbureau.com",уже есть данные
+      # data present
       # urls_hash = {
-      #   "vienna"=>"https://www.vienna.convention.at/en",
-      #   "visitberlin"=>"https://convention.visitberlin.de/en",
-      #   "london"=>"https://conventionbureau.london/",
-      #   "visitsingapore"=>"https://www.visitsingapore.com/mice/en/about-us/about-secb/",
-      #   "miceseoul"=>"http://www.miceseoul.com/",
-      #   "mehongkong"=>"https://mehongkong.com",
-      #   "businesseventsthailand"=>"https://www.businesseventsthailand.com",
-      #   "tcvb"=>"https://www.tcvb.or.jp/en/",
-      #   "buenosairesbureau"=>"http://www.buenosairesbureau.com/en",
-      #   "congresmtl"=>"https://congresmtl.com/en/",
-      #   "limaconvention"=>"http://limaconvention.com/en/",
-      #   "seetorontonow"=>"http://partners.seetorontonow.com/",
-      #   "joburgtourism"=>"http://listings.joburgtourism.com",
-      #   "dubaiconventionbureau"=>"http://dubaiconventionbureau.com/",
-      #   "visitabudhabi"=>"https://visitabudhabi.ae/en/abu.dhabi.convention.bureau.aspx"
+      #   "parisinfo"=>"http://en.convention.parisinfo.com"
       # }
-
       urls_hash = {
-        "parisinfo"=>"http://en.convention.parisinfo.com"
+        "barcelonaconventionbureau"=>"http://www.barcelonaconventionbureau.com",
+        "parisinfo"=>"http://en.convention.parisinfo.com",
+        "vienna"=>"https://www.vienna.convention.at/en",
+        "visitberlin"=>"https://convention.visitberlin.de/en",
+        "london"=>"https://conventionbureau.london/",
+        "visitsingapore"=>"https://www.visitsingapore.com/mice/en/about-us/about-secb/",
+        "miceseoul"=>"http://www.miceseoul.com/",
+        "mehongkong"=>"https://mehongkong.com",
+        "businesseventsthailand"=>"https://www.businesseventsthailand.com",
+        "tcvb"=>"https://www.tcvb.or.jp/en/",
+        "buenosairesbureau"=>"http://www.buenosairesbureau.com/en",
+        "congresmtl"=>"https://congresmtl.com/en/",
+        "limaconvention"=>"http://limaconvention.com/en/",
+        "seetorontonow"=>"http://partners.seetorontonow.com/",
+        "joburgtourism"=>"http://listings.joburgtourism.com",
+        "dubaiconventionbureau"=>"http://dubaiconventionbureau.com/",
+        "visitabudhabi"=>"https://visitabudhabi.ae/en/abu.dhabi.convention.bureau.aspx"
       }
 
-      urls_hash.each do |folder_name, url|
-        puts folder_name
-        puts urls
-        web_crawler(url, folder_name)
-        puts "crawled"
-        lemming(folder_name)
-        puts "lemming"
-      end
+
+      # urls_hash.each do |folder_name, url|
+      #   puts folder_name
+      #   puts url
+      #   web_crawler(url, folder_name)
+      #   puts "crawled"
+      #   lemming(folder_name)
+      #   puts "lemming"
+      # end
 
       result_array = urls_hash.map do |folder_name, url|
         find_words_count(folder_name, words, url)
@@ -72,7 +75,8 @@ class WebService
     def lemming(folder_name)
       all_paths = Dir["#{DOCS_HOME_PATH}/#{folder_name}/*/*/"]
       words = all_paths.map do |path|
-        content = File.open([path, "content.txt"].join("/"), "r"){ |f| f.read }
+        print '*'
+        content = File.open([path, "content.txt"].join("/"), "r", encoding: 'ISO-8859-1:UTF-8'){ |f| f.read }
         stop_words = File.open("stop_words", "r"){ |f| f.read }.split("\n")
 
         lem = Lemmatizer.new
@@ -97,7 +101,7 @@ class WebService
       responses = []
       doc_dir = "docs"
 
-      spider.crawl(max_urls: 2000, timeout: 300, time_box: 10000, ) { |response|
+      spider.crawl(max_urls: 2000, timeout: 10, time_box: 1000) { |response|
         responses << Nokogiri::HTML(response.body)
         print '*'
       }

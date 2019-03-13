@@ -1,0 +1,770 @@
+
+  
+    
+
+
+
+
+
+
+            
+                Compose tips | Berlin Convention Office
+      
+
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+        
+
+              
+                
+
+                
+          
+    
+
+
+    
+
+
+  
+  
+    
+      Skip to main content
+    
+
+    
+      
+    
+
+
+
+        
+    
+        Javascript ist deaktiviert!
+        Bitte aktivieren Sie Javascript in Ihrem Browser.
+    
+
+        
+    
+        
+      
+                    
+    
+      
+
+      
+        
+                
+            Show/hide menu
+        
+      
+    
+
+    
+      
+          
+              
+                  
+      
+    
+      
+
+    
+      English
+      EnglishDeutsch
+    
+  
+  
+  
+    
+      
+  
+          
+
+            
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+  
+    Partner Login
+    
+        
+                
+                  
+
+    
+      E-mail
+          
+
+            
+
+      Password
+          
+
+            
+
+
+
+
+
+
+Create new accountReset your password
+            
+  
+
+
+
+                                
+          
+      
+                
+              
+                  
+                                            
+    
+                  
+                                        
+            
+  Hauptmenü Englisch
+  
+
+        
+                  
+                              
+          Meeting Guide Berlin
+                      
+              +
+            
+                                              
+              
+        Back
+      
+                      
+          Conference hotels & locations
+                            
+                      
+          Service Partner
+                            
+                      
+          Incentives
+                            
+              
+  
+                  
+                      
+          Service + Event Planning
+                      
+              +
+            
+                                              
+              
+        Back
+      
+                      
+          Event Kit
+                      
+              +
+            
+                                              
+              
+        Back
+      
+                      
+          Apps for Berlin
+                            
+                      
+          Pictures
+                            
+                      
+          Recommendations
+                            
+                      
+          Transportation
+                            
+                      
+          Videos
+                            
+              
+  
+                  
+                      
+          PR Kit
+                      
+              +
+            
+                                              
+              
+        Back
+      
+                      
+          Media contacts
+                            
+                      
+          Facts & Figures
+                            
+                      
+          Pictures
+                            
+                      
+          Press Releases
+                            
+                      
+          Texts about Berlin
+                            
+                      
+          Videos
+                            
+              
+  
+                  
+                      
+          Sustainable Meetings Berlin
+                            
+                      
+          MEET+CHANGE 
+                            
+                      
+          Berlin Speakers Pool
+                            
+                      
+          Congress Calendar
+                            
+              
+  
+                  
+                      
+          About
+                      
+              +
+            
+                                              
+              
+        Back
+      
+                      
+          Contact persons
+                            
+                      
+          Memberships
+                            
+                      
+          Newsletter
+                            
+              
+  
+                  
+                      
+          Blog
+                            
+              
+  
+
+
+  
+
+
+              
+          
+          
+
+              
+    
+    
+        
+    
+    
+
+        
+    
+                            
+                  
+    
+
+  
+
+            
+                                        
+                                                                          
+    
+  
+    
+      
+  
+
+  
+    
+      
+    
+        
+
+
+  
+  Text Formats
+
+  
+          
+      CKEditor - Kommentar
+    
+          
+              Allowed HTML tags: <p> <br> <em> <strong> <u>This site allows HTML content. While learning all of HTML may feel intimidating, learning how to use a very small number of the most basic HTML "tags" is very easy. This table provides examples for each tag that is enabled on this site.For more information see W3C's HTML Specifications or use your favorite search engine to find other sites that explain HTML.
+  
+  
+      
+      
+                  Tag Description
+                  You Type
+                  You Get
+              
+    
+  
+      
+              
+                      By default paragraph tags are automatically added, so use this tag to add additional ones.
+                      <p>Paragraph one.</p> <p>Paragraph two.</p>
+                      Paragraph one. Paragraph two.
+                  
+              
+                      By default line break tags are automatically added, so use this tag to add additional ones. Use of this tag is different because it is not used with an open/close pair like all the others. Use the extra " /" inside the tag to maintain XHTML 1.0 compatibility
+                      Text with <br />line break
+                      Text with line break
+                  
+              
+                      Emphasized
+                      <em>Emphasized</em>
+                      Emphasized
+                  
+              
+                      Strong
+                      <strong>Strong</strong>
+                      Strong
+                  
+              
+                      Underlined
+                      <u>Underlined</u>
+                      Underlined
+                  
+          
+    
+Most unusual characters can be directly entered without any problems.If you do encounter problems, try using HTML character entities. A common example looks like &amp; for an ampersand & character. For a full list of entities see HTML's entities page. Some of the available characters include:
+  
+  
+      
+      
+                  Character Description
+                  You Type
+                  You Get
+              
+    
+  
+      
+              
+                      Ampersand
+                      &amp;
+                      &
+                  
+              
+                      Greater than
+                      &gt;
+                      >
+                  
+              
+                      Less than
+                      &lt;
+                      <
+                  
+              
+                      Quotation mark
+                      &quot;
+                      "
+                  
+          
+    
+
+              Lines and paragraphs are automatically recognized. The <br /> line break, <p> paragraph and </p> close paragraph tags are inserted automatically. If paragraphs are not recognized simply add a couple of blank lines.
+            
+    
+          
+    
+  
+          
+      CKEditor - nur fett
+    
+          
+              Allowed HTML tags: <br><p><strong>This site allows HTML content. While learning all of HTML may feel intimidating, learning how to use a very small number of the most basic HTML "tags" is very easy. This table provides examples for each tag that is enabled on this site.For more information see W3C's HTML Specifications or use your favorite search engine to find other sites that explain HTML.
+  
+  
+      
+      
+                  Tag Description
+                  You Type
+                  You Get
+              
+    
+  
+      
+              
+                      By default line break tags are automatically added, so use this tag to add additional ones. Use of this tag is different because it is not used with an open/close pair like all the others. Use the extra " /" inside the tag to maintain XHTML 1.0 compatibility
+                      Text with <br />line break
+                      Text with line break
+                  
+              
+                      By default paragraph tags are automatically added, so use this tag to add additional ones.
+                      <p>Paragraph one.</p> <p>Paragraph two.</p>
+                      Paragraph one. Paragraph two.
+                  
+              
+                      Strong
+                      <strong>Strong</strong>
+                      Strong
+                  
+          
+    
+Most unusual characters can be directly entered without any problems.If you do encounter problems, try using HTML character entities. A common example looks like &amp; for an ampersand & character. For a full list of entities see HTML's entities page. Some of the available characters include:
+  
+  
+      
+      
+                  Character Description
+                  You Type
+                  You Get
+              
+    
+  
+      
+              
+                      Ampersand
+                      &amp;
+                      &
+                  
+              
+                      Greater than
+                      &gt;
+                      >
+                  
+              
+                      Less than
+                      &lt;
+                      <
+                  
+              
+                      Quotation mark
+                      &quot;
+                      "
+                  
+          
+    
+
+              Lines and paragraphs are automatically recognized. The <br /> line break, <p> paragraph and </p> close paragraph tags are inserted automatically. If paragraphs are not recognized simply add a couple of blank lines.
+            
+    
+          
+    
+  
+          
+      Plain text
+    
+          
+              Allowed HTML tags: <p><br>This site allows HTML content. While learning all of HTML may feel intimidating, learning how to use a very small number of the most basic HTML "tags" is very easy. This table provides examples for each tag that is enabled on this site.For more information see W3C's HTML Specifications or use your favorite search engine to find other sites that explain HTML.
+  
+  
+      
+      
+                  Tag Description
+                  You Type
+                  You Get
+              
+    
+  
+      
+              
+                      By default paragraph tags are automatically added, so use this tag to add additional ones.
+                      <p>Paragraph one.</p> <p>Paragraph two.</p>
+                      Paragraph one. Paragraph two.
+                  
+              
+                      By default line break tags are automatically added, so use this tag to add additional ones. Use of this tag is different because it is not used with an open/close pair like all the others. Use the extra " /" inside the tag to maintain XHTML 1.0 compatibility
+                      Text with <br />line break
+                      Text with line break
+                  
+          
+    
+Most unusual characters can be directly entered without any problems.If you do encounter problems, try using HTML character entities. A common example looks like &amp; for an ampersand & character. For a full list of entities see HTML's entities page. Some of the available characters include:
+  
+  
+      
+      
+                  Character Description
+                  You Type
+                  You Get
+              
+    
+  
+      
+              
+                      Ampersand
+                      &amp;
+                      &
+                  
+              
+                      Greater than
+                      &gt;
+                      >
+                  
+              
+                      Less than
+                      &lt;
+                      <
+                  
+              
+                      Quotation mark
+                      &quot;
+                      "
+                  
+          
+    
+
+              No HTML tags allowed.
+              Lines and paragraphs are automatically recognized. The <br /> line break, <p> paragraph and </p> close paragraph tags are inserted automatically. If paragraphs are not recognized simply add a couple of blank lines.
+              Web page addresses and email addresses turn into links automatically.
+            
+    
+          
+    
+  
+  
+
+                    
+                
+                
+                
+    Your Feedback
+
+
+    Your Feedback
+    
+    
+        ×
+    
+        
+    
+
+    
+
+        
+  
+      
+    
+  
+    
+  
+    
+      
+        
+          
+            
+          
+        
+      
+      
+                
+          
+            Call us
+            
+              
+                  +49 (0)30 26 47 48 - 400
+
+              
+            
+            Write us
+            
+                convention@visitBerlin.de
+
+            
+          
+          
+            
+              
+                    
+        visitBerlin.de
+              
+                
+        Traveltrade
+              
+                
+        Presse
+              
+                
+        Partner
+              
+                
+        Jobs
+              
+                
+        Kontakt
+              
+      
+  
+
+
+          
+        
+
+                
+          Our first-class support. Your successful event.
+          
+                          
+                
+                We are brilliantly connected - both (inter)nationally and regionally with a unique partner network.
+              
+                                      
+                
+                We are engaged free of charge because we act for you by order of the city.
+              
+                                      
+                
+                We are neutral because we represent the entire offerings of Berlin.
+              
+                      
+        
+
+                
+          
+            Your planning aid for Berlin
+            
+
+  
+    Event-Kit
+    
+  
+
+
+          
+          
+            Blog BerlinMeetings
+            
+              Inside tips about the congress metropolis Berlin
+              Trends in the MICE sector
+              Ideas for your event in Berlin
+            
+            
+              
+
+  Blog
+  
+
+
+            
+          
+        
+      
+    
+  
+
+  
+    
+      
+        
+          Follow us on:
+          
+                                      
+                
+
+
+              
+                                      
+                
+
+
+              
+                                                                          
+                
+
+
+              
+                      
+        
+      
+    
+  
+
+  
+    
+      
+        
+          
+              
+              
+        Datenschutzerklärung
+              
+          
+        Haftungshinweis
+              
+          
+        Impressum
+              
+          
+        © Berlin Tourismus & Kongress GmbH
+              
+        
+  
+
+
+        
+      
+    
+  
+
+  
+
+  
+
+
+
+    
+             
+
+
+
+
+  
+
+    
+
+        
+    
+
+
+
+
+              
+        
+      
+      

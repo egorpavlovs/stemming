@@ -1,0 +1,654 @@
+ 
+
+    
+    
+    
+    
+    
+
+	
+	
+  
+  
+  
+	
+	
+	
+	
+	
+
+	
+
+	
+	
+
+	
+	
+
+    
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+Accessibility - Palais des congrès de Montréal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+    
+    
+    
+        
+    
+    
+
+
+
+
+
+
+
+	
+
+		
+		
+			
+
+				
+         
+        
+        
+				Blog   |
+				  
+				
+        Online Ticket sales
+				           
+        
+        
+         
+              
+        
+			
+
+			
+			
+
+    
+		Search
+        
+        
+    
+
+
+
+
+
+
+			
+      
+				Access   |
+				
+        
+				Contact us   |
+				          
+      
+				
+					A
+					A
+					A
+					  |
+				
+				
+				Français
+			
+		
+
+		
+			
+			
+				
+					
+					
+						
+							
+						
+					
+
+					
+					
+						
+							The Palais
+						
+                    	
+							
+        	Access	Installations	Events Calendar	Sustainable development	Society	Media	Palais' Blog	Careers	Press releases and news	Commercial Mall	Ambassadors’ Club	Facts and FAQ		
+							
+								Installations
+
+
+Our venue is home to multipurpose ultramodern facilities, contemporary architecture, and abundant natural light.
+Learn more
+
+
+
+Discover the components of the LAB.
+Learn more		
+							
+						
+						
+                    
+										
+                Event planning
+						
+                    	
+							
+        	Planning a congress	Planning an exhibition	For exhibitors	Planning a conference, meeting, gala or special event	Planning Film and television productions	3D Floor Plans	School projects		
+							
+								Book your venue
+
+
+
+Request a booking online [+]
+
+
+
+Designed with exhibitors in mind, you gateway to online ordering 24/7!		
+							
+						
+						
+                    
+										
+                Services
+						
+                    	
+							
+        	Customer Service	Technical services	Event technologies	Green Events	Presentation technology solutions	Food services	Furnishings and decoration	Customs Brokerage and Transportation Services	Security	Handling and housekeeping		
+							
+								
+
+Designed with exhibitors in mind, you gateway to online ordering 24/7!		
+							
+						
+						
+                    
+										
+                Montréal
+						
+                    	
+							
+        	Destination Montréal	Near the Palais		
+							
+								
+ 
+
+Discover Montreal
+
+You want to know everything about Montréal ? This section is made for you.
+Learn more		
+							
+						
+						
+                    
+										
+                						
+					
+				
+			
+		
+	
+
+
+    
+        
+					
+
+    
+        
+
+						                
+                        
+              
+            
+            
+        
+      
+  
+  
+	
+	
+	
+
+                
+            Montreal Convention Center https://congresmtl.com/en/accessibility/
+        
+        
+        
+	
+		
+
+			
+			Convention and Exhibition Centre | Montréal Canada   /   Accessibility
+
+			
+			
+				
+					Contact us
+
+						
+							
+							
+								
+
+								
+									Contact us
+
+									
+										Reservation request
+										
+										Questions / Comments
+										
+									
+
+									514 871-8122
+                                    
+									Free of charge: 1 800 268-8122
+								
+								
+									Follow us
+
+									
+										Facebook
+										Flickr
+										Twitter
+										LinkedIn
+										YouTube
+										RSS
+									
+								
+							
+							
+						
+					
+
+					
+						History
+
+						
+							
+							
+							
+								
+									At your last visit
+									
+
+																				
+											The Palais des congrès de Montréal redefines its vision
+										
+																				
+											More than 8,000 nurses from all over the world expected at the Palais des congrès de Montréal in 2023
+										
+																				
+											The biggest consumer show in Québec comes to Palais des congrès de Montréal
+										
+																				
+											Palais des congrès de Montréal introduces  first Round Table on Convention Industry
+										
+																				
+											Centre de congrès et d'exposition à Montréal
+										
+																				
+											Le Palais des congrès de Montréal redéfinit sa vision
+										
+																				
+											Convention and Exhibition Centre | Montréal Canada
+										
+										
+									
+								
+							
+							
+							
+						
+					
+					
+						
+							Visitor
+							Planner
+						
+
+						
+							
+							
+							
+								
+
+								
+									Please select your profile
+									
+										
+											
+												Planner: Congress
+												
+												
+													
+														International congress
+														
+														Canadian congress
+														
+														American congress
+														
+													
+												
+											
+										
+										
+											
+												Planner: Trade Show or Consumer Show
+												
+												
+													
+														Consumer show
+														
+														Trade show
+														
+													
+												
+											
+										
+										Planner: Conferences and Meetings
+										
+										Planner: Gala and Special Events
+										
+										Visitor
+										
+										Not sure of your persona?
+									
+								
+							
+							
+							
+						
+					
+				
+			
+
+
+		
+	
+
+	    
+        
+    
+                        
+            
+                
+                
+
+                            
+    
+      
+      
+    
+    
+		                    
+                    
+                       
+                        
+                            Accessibility
+                        
+
+                        
+
+
+
+                        The definition adopted by the W3C (World Wide Web Consortium) is: "Making the Web and its services available to all individuals, regardless of hardware, software, network infrastructure, native language, culture, geographical location, or physical or mental disabilities."
+Accessibility enables universal access to online content and services without any discrimination of users (including disabled), regardless of the technologies used to access information personal computer, tablets, mobile phone and other). Web accessibility therefore meets the needs of more types of user profiles that people recognized officially.
+Thus, the elderly (age-related limitations), people wearing glasses or contact lenses (which are not always adjusted to the sight, for different reasons), people with visual limitations to distinguish color, illiterate, recent immigrants who speak little French, those unable to use the keyboard or mouse and others can access the content of the website content.
+It is essential that blind people can browse a website with the use of assistive technology (Braille) and specialized software (speech software to interpret the content of Web pages).
+Compliance with accessibility standards of the Government of Quebec
+The Palais des congrès' website follows the recommendations from the Specification of standards on web accessibility (SGQRI 008-01) in order to comply with the accessibility requirements of the Government of Quebec.
+To comply, the Palais des congrès meets the W3C standards through a consistent HTML structure.
+Among the main rules, we can note the following:
+
+Compliance with HTML5 for the structure and content,
+Compliance with CSS for presentation of information,
+Use HTML tags in their original meaning,
+Separation of content and presentation through the use of style sheets,
+Prioritisation of information through title tags,
+Use ALT attributes to describe the content contextual images,
+Declaration of the language for screen readers,
+Identify specific visual links to internal and external,
+Contextualisation of links to aid comprehension,
+Possibility of changing the size of the text.
+
+Web site accessibility is nowadays a major challenge. Compliance with these standards allows the Palais des congrès' website to offer content accessible to the greatest number of people.
+                        
+                        
+
+
+	
+		
+			RSS
+			Print
+			
+		
+	
+	
+		
+			
+				
+					
+						Facebook
+					
+				
+				
+					
+						Twitter
+					
+					
+				
+				
+					
+						Linkedin
+					
+				
+
+			
+			Share
+		
+	
+	
+ 
+
+                    
+                
+                
+                
+
+
+	
+	
+
+	
+		
+			
+
+				
+				
+
+																																							
+									Events Calendar								
+							
+																					
+
+				
+				
+
+																																							
+									Installations								
+							
+																					
+
+				
+				
+
+																																							
+									Access								
+							
+																					
+
+				
+				
+
+																																							
+									Contact us								
+							
+																					
+
+				
+			
+		
+	
+
+
+
+
+                
+            
+            
+                        
+        
+        
+	
+
+	
+
+
+
+
+
+
+  
+  	
+    	
+            Discover
+        Visit our installationsSustainable developmentPlanning
+        Planning a congressPlanning an exhibitionFor exhibitorsConference and meetingSchool projectsServicesVisit
+        Architecture and urban integrationEvents calendarDestination MontréalCommercial MallAccessCustomer ServiceThe Montreal convention centre
+        Organization chartHistory, mission and valuesMediaPublicationsSocietyCareersAmbassadors’ ClubTerms of UseRegulations 52-01AccessibilityContact us
+            
+             
+            
+                Follow us
+                
+                    Facebook
+                    Flickr
+                    Twitter
+                    LinkedIn
+                    YouTube
+                    RSS
+            	
+        	
+             
+        	Copyright 2019 © Montreal Convention Center
+    	
+        
+	
+   
+    
+   
+    
+        The Montreal Convention Center is a member of these associations:
+        
+        
+        	
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

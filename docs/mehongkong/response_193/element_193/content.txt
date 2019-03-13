@@ -1,0 +1,3604 @@
+
+      
+        
+         
+        Venue & Hotel Search – Meeting and Exhibitions Hong Kong (MEHK)
+        
+        
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+			
+        
+        
+      
+      
+        
+        
+        
+
+
+				
+					
+						
+                        Leisure Travelers
+                        
+                        
+                        
+                        
+                     
+					
+					
+						
+                        Business Travelers
+                        
+                        
+                        
+                        
+                     
+					
+				
+			
+
+	
+		
+			
+							
+                            
+                            
+                            Meetings and Exhibitions Hong Kong
+                            
+                            
+                            
+                            
+                            
+                        
+						
+						
+							
+						
+						
+							
+                            
+                              
+                            
+                            
+                        
+						
+		
+		
+			
+            
+            Text size : 
+            
+            
+            
+            
+            
+            
+            Small
+            
+            
+            
+            
+            
+            
+            Medium
+            
+            
+            
+            
+            
+            
+            Large
+            
+            
+            
+            
+            
+            
+			
+				
+					
+					
+				
+			
+			
+			
+            
+            Text Friendly
+            
+            
+            
+            
+			| 
+            Desktop Version
+            
+            
+            
+             | 
+			English
+		
+		
+		
+		
+			
+				
+					International | English
+					日本 | 日本語
+				
+				
+					中国内地 | 简体中文
+					대한민국 | 한국어
+				
+				
+					台灣 | 繁體中文
+				
+			
+		
+		
+			
+				
+					
+						Please Select
+						International | English
+						中国 | 简体中文
+						台灣 | 繁體中文
+						日本 | 日本語
+						대한민국 | 한국어
+
+					
+				
+			
+		
+	
+          
+            
+
+	
+	
+	
+		
+	
+
+
+						
+							
+								Home
+							
+							
+								Why Hong Kong
+							
+							
+								Meetings & Incentives
+							
+							
+								Conventions
+							
+							
+								Exhibitions
+							
+							
+								Products & Offers
+							
+							
+								Plan Your Event
+								
+							
+								Past & Upcoming Events
+							
+							
+							
+						
+
+						
+						
+							
+								
+								
+									
+										
+											
+												Strategic Location
+											
+											
+												Gateway to China
+											
+											
+												Superb Infrastructure
+											
+											
+												World-Leading Venues
+											
+											
+												Business Friendly Environment
+											
+											
+												Professional Support
+											
+											
+												Endless Variety
+											
+											
+												Proven Track Record
+											
+										
+									
+								
+
+								
+								
+									
+										
+											
+												Your Ultimate Rewards City
+											
+											
+												Success Stories
+											
+											
+												MICE Activities
+											
+											
+												How We Could Help
+											
+
+										
+									
+								
+
+								
+								
+									
+										
+											
+												Smooth & Successful Conventions
+											
+											
+												Success Stories
+											
+											
+												MICE Activities
+											
+											
+												How We Could Help
+											
+										
+									
+								
+
+								
+								
+									
+										
+											
+												Organise Exhibitions with Ease
+											
+											
+												Success Stories
+											
+											
+												MICE Activities
+											
+											
+												How We Could Help
+											
+										
+									
+								
+								
+								
+									
+										
+											
+												Inspiring Ideas
+											
+											
+												Lantau Insprirational Destination
+											
+											
+												Hong Kong Rewards
+											
+										
+									
+								
+								
+								
+									
+										
+											
+												Venue & Hotel Search
+											
+
+											
+											
+												Request for Proposal
+											
+											
+												Travel Kits
+											
+											
+												Download Centre
+											
+										
+									
+								
+								
+								
+								
+								
+								
+								
+
+							
+						
+						
+					
+
+	
+
+								Home
+
+								Why Hong Kong
+
+								Meetings & Incentives
+
+								Conventions
+
+								Exhibitions
+								Products & Offers
+
+
+								Plan Your Event
+
+								Past & Upcoming Events
+
+								
+	
+
+              
+                
+                  
+
+
+      Home
+      >Planning Tools
+      >Venue & Hotel Search
+
+                    Venue & Hotel Search
+
+	
+	
+  
+
+	
+		
+		
+    
+		
+	
+	
+	
+
+                  
+                  
+  
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+  
+
+  
+    
+    
+  
+
+
+
+  
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+          
+
+          SELECT DISTINCT  CASE mcou.charsetid WHEN 1 THEN companynameen WHEN 2 THEN companynametc ELSE companynamesc END companyname,  CASE mcou.charsetid WHEN 1 THEN companyprofileen WHEN 2 THEN companyprofiletc ELSE companyprofilesc END companyprofile,  CASE mcou.charsetid WHEN 1 THEN address1en WHEN 2 THEN address1tc ELSE address1sc END address1,  CASE mcou.charsetid WHEN 1 THEN address2en WHEN 2 THEN address2tc ELSE address2sc END address2,  mloc.text,  ci.text,  mcou.text,  telephone1Country,  telephone1area,  telephone1,  telephone2Country,  telephone2area,  telephone2,  fax1Country,  fax1area,  fax1,  fax2Country,  fax2area,  fax2,  email1,  email2,  email3,  website1,  website2,  website3,  mtr.text,  latitude,  longitude,  orderno,  CASE mcou.charsetid WHEN 1 THEN howtogetthereen WHEN 2 THEN howtogettheretc ELSE howtogettheresc END howtogetthere,  CASE mcou.charsetid WHEN 1 THEN venuenameen WHEN 2 THEN venuenametc ELSE venuenamesc END venuename,  CASE mcou.charsetid WHEN 1 THEN locationen WHEN 2 THEN locationtc ELSE locationsc END location,  dimensionlength,  dimensionwidth,  cap_theatre,  cap_classroom,  cap_banquet,  cap_cocktail,  cap_boardroom,  ceilingheight  FROM v_mehk_company com  LEFT JOIN (SELECT * FROM v_mehk_city WHERE charsetid = 1) ci ON (com.citycode = ci.value)  LEFT JOIN v_mehk_mtr mtr ON com.nearestmtrcode = mtr.value AND mtr.charsetid = 1 LEFT JOIN v_mehk_country mcou ON com.countrycode = mcou.value AND mcou.charsetid = 1 LEFT JOIN v_mehk_location mloc ON com.locationcode = mloc.value AND mloc.charsetid = 1 where companyid = 363 order by orderno, locationenSELECT *  FROM v_mehk_contactperson where titleen like '%Sales & Marketing%' AND companyid = 363
+			
+        Grand Hyatt Hong Kong Located on the waterfront on Hong Kong Island, Grand Hyatt Hong Kong is directly connected to the Hong Kong Convention & Exhibition Centre.  The hotel is within walking distance from the Star Ferry Pier to Tsim Sha Tsui; only five minutes by car from shopping and business districts of Central and Admiralty; and 40 minutes by car from the airport.  The hotel features 542 comfortably appointed rooms including Grand Club residences on the top seven floors.  The hotel is also home to nine acclaimed restaurants and bars, and an extensive range of recreational facilities is available, including Plateau Spa for result-oriented body, facial treatments and massage, a 50-metre outdoor heated pool and 24-hour fitness studios.  A total of 22 multi-purpose event venues are available to cater events and meetings of all sizes.
+
+            
+                 	
+                    
+                    
+                      
+                  
+                    
+                    
+                      
+                        
+                      
+                    
+                  
+                    
+			
+          
+      
+        General Information
+        
+          
+            
+              
+                
+                  
+                    Address :
+                    1 Harbour Road,Wan Chai,Hong Kong Island,Hong Kong
+                  
+                  
+                  
+                    Tel :
+                    +852 25881234
+                  
+                  
+                  
+                    Fax : 
+                    +852 28020677
+                  
+                  
+                  
+                    Email : 
+                    hongkong.grand@hyatt.com
+                  
+                  
+                  
+                    Website : 
+                    http://grandhyatthongkong.com
+                  
+                  
+                  
+                    Nearest MTR station : 
+                    Wan Chai
+                  
+                  
+
+              
+              
+                
+                
+                
+                  
+                  
+                    
+                      
+                      
+                      
+                        
+                          Select what you would like to see on the map:
+                          Attractions
+                          
+                          Shopping
+                          Dining
+                          Hotels
+                        
+                      
+                    
+                    
+                  
+                
+                
+                
+          
+        
+        
+      
+			  
+	
+						 
+     
+            
+                  
+                    Meeting, Exhibition and Banquet Facilities
+                      
+                        
+                          
+                            
+                              
+                                Venue Name
+                                Location
+                                Dimension(m)
+                                TA
+                                CR
+                                BQ
+                                CT
+                                BR
+                                Ceiling Height
+                              
+                            
+                            	  
+                          
+                            Grand Ballroom, Foyer, Grand I, II, III, IV & Annex
+                            Lobby
+                            
+                            
+                            
+                            888
+                            1600
+                            
+                            6.3
+                          
+              	  
+                          
+                            Grand III
+                            Lobby
+                            
+                            31
+                            18
+                            24
+                            33
+                            
+                            2.9
+                          
+              	  
+                          
+                            Grand I
+                            Lobby
+                            
+                            38
+                            18
+                            24
+                            30
+                            
+                            2.9
+                          
+              	  
+                          
+                            Grand Ballroom
+                            Lobby
+                            
+                            950
+                            420
+                            600
+                            1200
+                            
+                            6.3
+                          
+              	  
+                          
+                            Grand IV
+                            Lobby
+                            
+                            40
+                            18
+                            24
+                            35
+                            
+                            2.9
+                          
+              	  
+                          
+                            Grand II
+                            Lobby
+                            
+                            35
+                            18
+                            24
+                            35
+                            
+                            2.9
+                          
+              	  
+                          
+                            The Residence - Lounge
+                            M/F
+                            17.85 X 8.3
+                            83
+                            60
+                            60
+                            100
+                            0
+                            2.6
+                          
+              	  
+                          
+                            The Residence - Library
+                            M/F
+                            11.3 X 8.1
+                            60
+                            30
+                            20
+                            60
+                            0
+                            2.7
+                          
+              	  
+                          
+                            The Residence - Drawing Room
+                            M/F
+                            15.5 X 12
+                            87
+                            48
+                            60
+                            100
+                            0
+                            2.5
+                          
+              	  
+                          
+                            Salon I
+                            M/F
+                            11.1 X 5.8
+                            49
+                            24
+                            24
+                            30
+                            0
+                            2.3
+                          
+              	  
+                          
+                            Salon II
+                            M/F
+                            11.1 X 8.1
+                            63
+                            27
+                            36
+                            50
+                            0
+                            2.3
+                          
+              	  
+                          
+                            Salon III
+                            M/F
+                            11.1 X 8.1
+                            63
+                            27
+                            36
+                            50
+                            0
+                            2.3
+                          
+              	  
+                          
+                            Salon IV
+                            M/F
+                            11.1 X 7.8
+                            63
+                            27
+                            36
+                            50
+                            0
+                            2.3
+                          
+              	  
+                          
+                            Salon I & II
+                            M/F
+                            13.9 X 11.1
+                            90
+                            42
+                            72
+                            90
+                            0
+                            2.3
+                          
+              	  
+                          
+                            Salon II & III
+                            M/F
+                            16.2 X 11.1
+                            120
+                            54
+                            84
+                            120
+                            0
+                            2.3
+                          
+              	  
+                          
+                            Salon III & IV
+                            M/F
+                            15.9 X 11.1
+                            120
+                            54
+                            84
+                            120
+                            0
+                            2.3
+                          
+              	  
+                          
+                            Salon I, II & III
+                            M/F
+                            22 X 11.1
+                            160
+                            72
+                            168
+                            160
+                            0
+                            2.3
+                          
+              	  
+                          
+                            Salon II, III& IV
+                            M/F
+                            24 X 11.1
+                            180
+                            90
+                            180
+                            180
+                            0
+                            0
+                          
+              	  
+                          
+                            Salon I, II, III& IV
+                            M/F
+                            29.8 X 11.1
+                            200
+                            108
+                            228
+                            220
+                            0
+                            2.3
+                          
+              	  
+                          
+                            Chief Executive Suite I
+                            5/F
+                            7.7 X 5.5
+                            36
+                            21
+                            18
+                            36
+                            0
+                            3
+                          
+              	  
+                          
+                            Chief Executive Suite II
+                            5/F
+                            23.4 X 8
+                            28
+                            15
+                            14
+                            32
+                            0
+                            2.4
+                          
+              	  
+                          
+                            Chief Executive Suite  III
+                            5/F
+                            10.9 X 6.7
+                            58
+                            33
+                            36
+                            60
+                            0
+                            2.9
+                          
+              	  
+                          
+                            Chief Executive Suite II & III
+                            5/F
+                            16.5 X 6.7
+                            96
+                            51
+                            72
+                            100
+                            0
+                            2.9
+                          
+              	  
+                          
+                            Pool House
+                            11/F
+                            14 X 11.2
+                            0
+                            0
+                            96
+                            120
+                            0
+                            4.75
+                          
+              
+                      
+                  
+                
+                
+              
+              
+        
+          SELECT DISTINCT  fbo.fboutletid,  fbo.outletnameen,  fbo.outletnametc,  fbo.outletnamesc,  fbo.capacity,  fbo.remarken,  fbo.remarktc,  fbo.remarksc  FROM v_mehk_fboutlet fbo, v_mehk_fboutletcuisinetype fboct  WHERE fbo.fboutletid = fboct.fboutletid  AND fbo.companyid = 363 ORDER BY outletnameen
+                  
+                    Food & Beverage Outlet
+                    
+                      
+                        
+                          
+                            
+                              Outlet id
+                              Outlet Name
+                              Capacity
+                              Cuisine Type
+                              Remarks
+                            
+                          
+                          	  
+                          
+                            258
+                            
+                              Champagne Bar
+                              
+                            100
+                            
+                            SELECT text FROM v_mehk_cuisinetype ct, v_mehk_fboutletcuisinetype fct where ct.charsetid = 1 AND ct.value = fct.cuisinetypecode AND fct.fboutletid = 258
+                                Cocktails & Snacks
+                                
+                            
+                            
+                              5pm-2am(Mon-Sun)
+                              
+                          
+                          	  
+                          
+                            254
+                            
+                              Grand Cafe
+                              
+                            250
+                            
+                            SELECT text FROM v_mehk_cuisinetype ct, v_mehk_fboutletcuisinetype fct where ct.charsetid = 1 AND ct.value = fct.cuisinetypecode AND fct.fboutletid = 254
+                                International Cuisine
+                                
+                            
+                            
+                              All day dining
+                              
+                          
+                          	  
+                          
+                            251
+                            
+                              Grand Hyatt Steakhouse
+                              
+                            110
+                            
+                            SELECT text FROM v_mehk_cuisinetype ct, v_mehk_fboutletcuisinetype fct where ct.charsetid = 1 AND ct.value = fct.cuisinetypecode AND fct.fboutletid = 251
+                                Seafood
+                                ,
+                                Western
+                                ,
+                                Wine
+                                
+                            
+                            
+                              prime steak from the US and Canada; oyster and seafood; salad bar and a selection of fine wines
+                              
+                          
+                          	  
+                          
+                            259
+                            
+                              Grissini
+                              
+                            120
+                            
+                            SELECT text FROM v_mehk_cuisinetype ct, v_mehk_fboutletcuisinetype fct where ct.charsetid = 1 AND ct.value = fct.cuisinetypecode AND fct.fboutletid = 259
+                                Italian
+                                
+                            
+                            
+                              Lunch, Dinner
+                              
+                          
+                          	  
+                          
+                            257
+                            
+                              Kaetsu
+                              
+                            90
+                            
+                            SELECT text FROM v_mehk_cuisinetype ct, v_mehk_fboutletcuisinetype fct where ct.charsetid = 1 AND ct.value = fct.cuisinetypecode AND fct.fboutletid = 257
+                                Japanese
+                                
+                            
+                            
+                              Lunch, Dinner, Teppan Specialties
+                              
+                          
+                          	  
+                          
+                            256
+                            
+                              One Harbour Road
+                              
+                            150
+                            
+                            SELECT text FROM v_mehk_cuisinetype ct, v_mehk_fboutletcuisinetype fct where ct.charsetid = 1 AND ct.value = fct.cuisinetypecode AND fct.fboutletid = 256
+                                Chinese (Cantonese)
+                                
+                            
+                            
+                              Lunch, Dinner
+                              
+                          
+                          	  
+                          
+                            253
+                            
+                              The Grill
+                              
+                            150
+                            
+                            SELECT text FROM v_mehk_cuisinetype ct, v_mehk_fboutletcuisinetype fct where ct.charsetid = 1 AND ct.value = fct.cuisinetypecode AND fct.fboutletid = 253
+                                Buffet
+                                ,
+                                Grill
+                                ,
+                                Seafood
+                                
+                            
+                            
+                              Lunch, DinnerPoolside Alfesco dining
+                              
+                          
+                          	  
+                          
+                            2058
+                            
+                              The Teppanroom
+                              
+                            18
+                            
+                            SELECT text FROM v_mehk_cuisinetype ct, v_mehk_fboutletcuisinetype fct where ct.charsetid = 1 AND ct.value = fct.cuisinetypecode AND fct.fboutletid = 2058
+                                Japanese
+                                
+                            
+                            
+                              
+                              
+                          
+                          	  
+                          
+                            250
+                            
+                              The Waterfall Bar
+                              
+                            30
+                            
+                            SELECT text FROM v_mehk_cuisinetype ct, v_mehk_fboutletcuisinetype fct where ct.charsetid = 1 AND ct.value = fct.cuisinetypecode AND fct.fboutletid = 250
+                                Cocktails & Snacks
+                                
+                            
+                            
+                              alfresco drinks and cigars
+                              
+                          
+                          	  
+                          
+                            255
+                            
+                              Tiffin
+                              
+                            142
+                            
+                            SELECT text FROM v_mehk_cuisinetype ct, v_mehk_fboutletcuisinetype fct where ct.charsetid = 1 AND ct.value = fct.cuisinetypecode AND fct.fboutletid = 255
+                                Buffet
+                                ,
+                                Continental / European
+                                ,
+                                Western
+                                
+                            
+                            
+                              Lunch,Afternoon Tea, Evening Dessert Buffet
+                              
+                          
+                          
+                        
+                      
+                    
+                    
+                  
+                  
+          
+          
+                    
+                      Rooms
+                      
+                        
+                          
+                            
+                              
+                                Type
+                                From (HK$)
+                                To (HK$)
+                                No. of Rooms
+                                Remarks
+                              
+                            
+                            
+                                
+                                
+                                  Double
+                                  
+                                3500
+                                6700
+                                406
+                                
+                                  Grand Room, Grand Deluxe Room, Grand Harbour View Room, Grand Deluxe City Room, Grand Deluxe Harbour Room, Club Room, Club Harbour View Room, Executive Room, Grand Harbour View Suite, Grand Suite, Diplomat Suite, Grand Executive Harbour Suite, Ambassador Suite, Chairman Suite, Presidential Suite, Plateau Room
+                                  
+                                
+                                
+                                
+                                
+                                  Twin
+                                  
+                                3500
+                                6700
+                                86
+                                
+                                  Grand Room, Grand Deluxe Room, Grand Harbour View Room, Grand Deluxe Harbour Room, Club Room, Club Harbour View Room
+                                  
+                                
+                                
+                                
+                                
+                                  Suite
+                                  
+                                6700
+                                40500
+                                47
+                                
+                                  Presidential Suite, Chairman Suite, Ambassador Suite, Diplomat Suite, Executive Suite, Grand Deluxe Harbour, Plateau Suite
+                                  
+                                
+                                
+                          
+                        
+                      
+                      
+                    
+                    
+                    
+      
+            
+                    
+                      Facilities
+                      
+                        
+                          
+                            
+                            Accessible Facilities
+                  Accessible Lobby Area / Main Entrance , Accessible Meeting and Conference Area , Accessible Rooms
+                            
+                    
+                            General Amenities and Facilities
+                  Airport Receptionist , Alfresco Dining , Audio Visual Equipment , Babysitter , Banquet Facilities , Bar & Lounge , Barber , Beauty Salon , Broadband Internet Access , Business Centre , Car Park , Coffee Shop , Conference and Meeting Facilities , Connecting Room , Daily International Newspapers , Daily Local Newspapers , Direct Access to The Hong Kong Convention and Exhibition Centre , Disco , Doctor Services , Electrical Adaptor on request , Electrical Transformer on request , Executive Floor , Express Check-out , Florist , Foreign Currency and Exchange , Laundry / Valet , Limousine Service , Mobile Phone Rental , Non-smoking Dining Rooms , Non-smoking Floors , Non-smoking Rooms , Regular Shuttle Bus Service , Restaurants , Room Service (24 hours) , Safe Deposit Box - Front Desk , Tour Desk , Wheelchairs on Request
+                            
+                    
+                            In-room Amenities and Facilities
+                  Alarm Clock , Bathrobes , Extra Bed , Free WiFi Access , Hair Dryer , In-room Data Port , In-room Safe Deposit Box , Infotainment with Video on Demand / Computer Game , Iron & Ironing Board , Mini-bar in Room , Shampoo , Shower Cap , Slippers , Tea & Coffee Making Facilities , Tooth Brush , TV with Cable Network , TV with Satellite Channels , Voice Mail
+                            
+                    
+                            Recreation Facilities
+                  Facial Service , Golf Driving Range , Gymnasium , Jacuzzi / Whirlpool , Jogging Track , Landscape Garden , Massage Service , Sauna , Spa Facilities , Squash Court , Steam Bath , Swimming Pool: Outdoor , Tennis Court
+                            
+              
+                          
+                        
+                      
+                      
+                    
+                    
+            
+            
+                    
+                      Photo
+                      
+                        
+                          
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                          
+                        
+                      
+                      
+            
+                    
+                    
+          
+            
+                    
+                      Floor Plan
+                      
+                        
+                          
+                            
+                            Floor Plan 
+                            
+                            Floor Plan 
+                            
+                            Floor Plan 
+                            
+                            Floor Plan 
+                            
+                          
+                        
+                      
+                      
+                      
+                    
+                    
+          
+            
+                
+                  How to Get There
+                  
+                    
+                      
+                        
+                        The hotel is within walking distance from the Star Ferry Pier to Tsim Sha Tsui; only five minutes by car from shopping and business districts of Central and Admiralty; and 40 minutes by car from the airport. 
+                        
+                      
+                    
+                  
+                  
+                
+                
+        
+        
+      
+      
+    
+    
+
+  
+                    
+﻿
+
+     
+    
+
+     
+		
+			Venue & Hotel Search
+		
+		
+			e-Marketplace
+		
+		
+			Request for Proposal
+		
+		
+			Subscribe toE-newsletter
+		
+     
+
+
+
+	
+
+	
+		
+		
+			Facebook
+
+		
+	
+﻿
+  
+	
+	
+		
+			General Enquiries
+		
+		
+			HKTB Worldwide Offices
+		
+	
+
+
+
+                    
+                  
+                
+              
+            
+          
+          
+            
+
+
+    
+        
+            
+        
+
+    
+        
+            
+        
+
+    
+        
+            
+        
+
+    
+        
+            
+        
+
+    
+        
+            
+        
+
+    
+        
+            
+        
+
+    
+        
+            
+        
+
+
+
+  
+      
+        
+        
+
+        
+      
+      
+        
+        
+
+        
+            
+            
+            
+            
+              Why Hong Kong
+              
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Strategic Location
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Gateway to China
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Superb Infrastructure
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            World-Leading Venues 
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            Business Friendly Environment
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Professional Support
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Endless Variety
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            Proven Track Record
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+              
+              
+            
+              Meetings & Incentives
+              
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Your Ultimate Rewards City
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Success Stories
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            MICE Activities
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            How We Can Help
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+              
+              
+            
+              Conventions
+              
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Where Quality and Competence Meet
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Success Stories
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            MICE Activities
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            How We Can Help
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+              
+              
+            
+              Exhibitions
+              
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Showcase with Success
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            Success Stories
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            MICE Activities
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            How We Can Help
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+              
+              
+            
+              Products and Offers
+              
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Inspiring Ideas
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            Lantau – Inspirational Destination
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            Hong Kong Rewards! 2018/19
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            Hong Kong Rewards! 2019/20
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+              
+              
+            
+              Planning Tools
+              
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Venue & Hotel Search
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Request for Proposal
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Travel Kits
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            Download Centre
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+              
+              
+            
+              Event Calendar
+              
+            
+            
+            
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        
+        
+
+        
+            
+            
+            
+              
+              
+            
+              Privacy Policy (for EU Site Visitors)
+              
+            
+            
+            
+      
+      
+  
+﻿
+Please consider the environment before printing this page
+
+			
+				
+					Meetings and Exhibitions Hong Kong
+					e-News
+					Sitemap
+					Contact Us
+					News 
+					Follow Us   
+				
+				Copyright © 2014 Hong Kong Tourism Board. All rights reserved. Privacy policy | Cookie policy | Terms of use |  沪ICP备12030823号 |  沪公网安备 31010102004997号
+				
+			
+			
+				
+			
+		
+            
+          
+        
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+      
+
+
+    

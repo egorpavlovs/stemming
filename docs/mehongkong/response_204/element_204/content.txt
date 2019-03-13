@@ -1,0 +1,3395 @@
+
+      
+        
+         
+        Venue & Hotel Search – Meeting and Exhibitions Hong Kong (MEHK)
+        
+        
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+			
+        
+        
+      
+      
+        
+        
+        
+
+
+				
+					
+						
+                        Leisure Travelers
+                        
+                        
+                        
+                        
+                     
+					
+					
+						
+                        Business Travelers
+                        
+                        
+                        
+                        
+                     
+					
+				
+			
+
+	
+		
+			
+							
+                            
+                            
+                            Meetings and Exhibitions Hong Kong
+                            
+                            
+                            
+                            
+                            
+                        
+						
+						
+							
+						
+						
+							
+                            
+                              
+                            
+                            
+                        
+						
+		
+		
+			
+            
+            Text size : 
+            
+            
+            
+            
+            
+            
+            Small
+            
+            
+            
+            
+            
+            
+            Medium
+            
+            
+            
+            
+            
+            
+            Large
+            
+            
+            
+            
+            
+            
+			
+				
+					
+					
+				
+			
+			
+			
+            
+            Text Friendly
+            
+            
+            
+            
+			| 
+            Desktop Version
+            
+            
+            
+             | 
+			English
+		
+		
+		
+		
+			
+				
+					International | English
+					日本 | 日本語
+				
+				
+					中国内地 | 简体中文
+					대한민국 | 한국어
+				
+				
+					台灣 | 繁體中文
+				
+			
+		
+		
+			
+				
+					
+						Please Select
+						International | English
+						中国 | 简体中文
+						台灣 | 繁體中文
+						日本 | 日本語
+						대한민국 | 한국어
+
+					
+				
+			
+		
+	
+          
+            
+
+	
+	
+	
+		
+	
+
+
+						
+							
+								Home
+							
+							
+								Why Hong Kong
+							
+							
+								Meetings & Incentives
+							
+							
+								Conventions
+							
+							
+								Exhibitions
+							
+							
+								Products & Offers
+							
+							
+								Plan Your Event
+								
+							
+								Past & Upcoming Events
+							
+							
+							
+						
+
+						
+						
+							
+								
+								
+									
+										
+											
+												Strategic Location
+											
+											
+												Gateway to China
+											
+											
+												Superb Infrastructure
+											
+											
+												World-Leading Venues
+											
+											
+												Business Friendly Environment
+											
+											
+												Professional Support
+											
+											
+												Endless Variety
+											
+											
+												Proven Track Record
+											
+										
+									
+								
+
+								
+								
+									
+										
+											
+												Your Ultimate Rewards City
+											
+											
+												Success Stories
+											
+											
+												MICE Activities
+											
+											
+												How We Could Help
+											
+
+										
+									
+								
+
+								
+								
+									
+										
+											
+												Smooth & Successful Conventions
+											
+											
+												Success Stories
+											
+											
+												MICE Activities
+											
+											
+												How We Could Help
+											
+										
+									
+								
+
+								
+								
+									
+										
+											
+												Organise Exhibitions with Ease
+											
+											
+												Success Stories
+											
+											
+												MICE Activities
+											
+											
+												How We Could Help
+											
+										
+									
+								
+								
+								
+									
+										
+											
+												Inspiring Ideas
+											
+											
+												Lantau Insprirational Destination
+											
+											
+												Hong Kong Rewards
+											
+										
+									
+								
+								
+								
+									
+										
+											
+												Venue & Hotel Search
+											
+
+											
+											
+												Request for Proposal
+											
+											
+												Travel Kits
+											
+											
+												Download Centre
+											
+										
+									
+								
+								
+								
+								
+								
+								
+								
+
+							
+						
+						
+					
+
+	
+
+								Home
+
+								Why Hong Kong
+
+								Meetings & Incentives
+
+								Conventions
+
+								Exhibitions
+								Products & Offers
+
+
+								Plan Your Event
+
+								Past & Upcoming Events
+
+								
+	
+
+              
+                
+                  
+
+
+      Home
+      >Planning Tools
+      >Venue & Hotel Search
+
+                    Venue & Hotel Search
+
+	
+	
+  
+
+	
+		
+		
+    
+		
+	
+	
+	
+
+                  
+                  
+  
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+  
+
+  
+    
+    
+  
+
+
+
+  
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+          
+
+          SELECT DISTINCT  CASE mcou.charsetid WHEN 1 THEN companynameen WHEN 2 THEN companynametc ELSE companynamesc END companyname,  CASE mcou.charsetid WHEN 1 THEN companyprofileen WHEN 2 THEN companyprofiletc ELSE companyprofilesc END companyprofile,  CASE mcou.charsetid WHEN 1 THEN address1en WHEN 2 THEN address1tc ELSE address1sc END address1,  CASE mcou.charsetid WHEN 1 THEN address2en WHEN 2 THEN address2tc ELSE address2sc END address2,  mloc.text,  ci.text,  mcou.text,  telephone1Country,  telephone1area,  telephone1,  telephone2Country,  telephone2area,  telephone2,  fax1Country,  fax1area,  fax1,  fax2Country,  fax2area,  fax2,  email1,  email2,  email3,  website1,  website2,  website3,  mtr.text,  latitude,  longitude,  orderno,  CASE mcou.charsetid WHEN 1 THEN howtogetthereen WHEN 2 THEN howtogettheretc ELSE howtogettheresc END howtogetthere,  CASE mcou.charsetid WHEN 1 THEN venuenameen WHEN 2 THEN venuenametc ELSE venuenamesc END venuename,  CASE mcou.charsetid WHEN 1 THEN locationen WHEN 2 THEN locationtc ELSE locationsc END location,  dimensionlength,  dimensionwidth,  cap_theatre,  cap_classroom,  cap_banquet,  cap_cocktail,  cap_boardroom,  ceilingheight  FROM v_mehk_company com  LEFT JOIN (SELECT * FROM v_mehk_city WHERE charsetid = 1) ci ON (com.citycode = ci.value)  LEFT JOIN v_mehk_mtr mtr ON com.nearestmtrcode = mtr.value AND mtr.charsetid = 1 LEFT JOIN v_mehk_country mcou ON com.countrycode = mcou.value AND mcou.charsetid = 1 LEFT JOIN v_mehk_location mloc ON com.locationcode = mloc.value AND mloc.charsetid = 1 where companyid = 21471 order by orderno, locationenSELECT *  FROM v_mehk_contactperson where titleen like '%Sales & Marketing%' AND companyid = 21471
+			
+        Auberge Discovery Bay Hong Kong Auberge Discovery Bay Hong Kong comprises 325 superbly appointed rooms and suites. Located on Lantau Island, Auberge Discovery Bay Hong Kong is conveniently positioned midway between Hong Kong International Airport and the Central district. Offering visitors a unique experience, Auberge Discovery Bay Hong Kong's guests enjoy the tranquility and natural beauty of an island oasis, yet can travel to Hong Kong’s bustling Central district in just 25 minutes via a high-speed ferry. Close to popular tourist attractions, Auberge Discovery Bay Hong Kong provides an ideal venue for event planners. Featuring over 3,000 m² of event space, including the 700 m² pillar-free Grand Azure ballroom and eight function rooms, Auberge Discovery Bay Hong Kong provides a range of flexible spaces for various events. Auberge Discovery Bay Hong Kong also provides a variety of unique activities and experiences, including exceptional outdoor team building options, allowing guests to mix business with pleasure and explore the infinite flexibility of hosting MICE events in Hong Kong’s seaside oasis.
+
+            
+                 	
+                    
+                    
+                      
+                  
+                    
+                    
+                      
+                        
+                      
+                    
+                  
+                    
+			
+          
+      
+        General Information
+        
+          
+            
+              
+                
+                  
+                    Address :
+                    88 Siena Avenue, Discovery Bay,Lantau Island,Outlying Islands,Hong Kong
+                  
+                  
+                  
+                    Tel :
+                    +852 22958288
+                  
+                  
+                  
+                    Fax : 
+                    +852 22958188
+                  
+                  
+                  
+                    Email : 
+                    enquiry@aubergediscoverybay.com
+                  
+                  
+                  
+                    Website : 
+                    http://aubergediscoverybay.com
+                  
+                  
+                  
+                    Nearest MTR station : 
+                    Sunny Bay
+                  
+                  
+
+              
+              
+                
+                
+                
+                  
+                  
+                    
+                      
+                      
+                      
+                        
+                          Select what you would like to see on the map:
+                          Attractions
+                          
+                          Shopping
+                          Dining
+                          Hotels
+                        
+                      
+                    
+                    
+                  
+                
+                
+                
+          
+        
+        
+      
+			  
+	
+						 
+     
+            
+                  
+                    Meeting, Exhibition and Banquet Facilities
+                      
+                        
+                          
+                            
+                              
+                                Venue Name
+                                Location
+                                Dimension(m)
+                                TA
+                                CR
+                                BQ
+                                CT
+                                BR
+                                Ceiling Height
+                              
+                            
+                            	  
+                          
+                            Grand Azure I-III
+                            G/F
+                            40 X 18
+                            700
+                            480
+                            540
+                            700
+                            
+                            7.8
+                          
+              	  
+                          
+                            Marine I-IV
+                            1/F
+                            32 X 9
+                            300
+                            180
+                            240
+                            350
+                            
+                            3
+                          
+              	  
+                          
+                            Grand Azure I
+                            G/F
+                            13 X 18
+                            230
+                            160
+                            180
+                            230
+                            
+                            7.8
+                          
+              	  
+                          
+                            Coral
+                            1/F
+                            7 X 12
+                            55
+                            40
+                            60
+                            70
+                            
+                            3
+                          
+              	  
+                          
+                            Grand Azure II
+                            G/F
+                            13 X 18
+                            230
+                            160
+                            180
+                            230
+                            
+                            7.8
+                          
+              	  
+                          
+                            Regatta
+                            1/F
+                            9 X 5
+                            
+                            
+                            
+                            20
+                            12
+                            3
+                          
+              	  
+                          
+                            Grand Azure III
+                            G/F
+                            13 X 18
+                            230
+                            160
+                            180
+                            230
+                            
+                            7.8
+                          
+              	  
+                          
+                            Ocean I
+                            1/F
+                            8.5 X 3.8
+                            12
+                            10
+                            10
+                            20
+                            
+                            3
+                          
+              	  
+                          
+                            Marine I
+                            1/F
+                            8 X 9
+                            75
+                            40
+                            60
+                            80
+                            
+                            3
+                          
+              	  
+                          
+                            Marine II
+                            1/F
+                            8 X 9
+                            75
+                            40
+                            60
+                            80
+                            
+                            3
+                          
+              	  
+                          
+                            Marine III
+                            1/F
+                            8 X 9
+                            65
+                            35
+                            48
+                            70
+                            
+                            3
+                          
+              	  
+                          
+                            Ocean II
+                            1/F
+                            8.5 X 3.8
+                            12
+                            10
+                            10
+                            20
+                            
+                            3
+                          
+              	  
+                          
+                            Marine IV
+                            1/F
+                            8 X 9
+                            65
+                            35
+                            48
+                            70
+                            
+                            3
+                          
+              	  
+                          
+                            Ocean III
+                            1/F
+                            8.5 X 3.8
+                            12
+                            10
+                            10
+                            20
+                            
+                            3
+                          
+              	  
+                          
+                            Ocean IV
+                            1/F
+                            8.5 X 3.8
+                            12
+                            10
+                            10
+                            20
+                            
+                            3
+                          
+              	  
+                          
+                            Pavilion
+                            Waterfront beside The Bounty Entertaiment and Sports Bar
+                            
+                            120
+                            
+                            
+                            
+                            
+                            12
+                          
+              
+                      
+                  
+                
+                
+              
+              
+        
+          SELECT DISTINCT  fbo.fboutletid,  fbo.outletnameen,  fbo.outletnametc,  fbo.outletnamesc,  fbo.capacity,  fbo.remarken,  fbo.remarktc,  fbo.remarksc  FROM v_mehk_fboutlet fbo, v_mehk_fboutletcuisinetype fboct  WHERE fbo.fboutletid = fboct.fboutletid  AND fbo.companyid = 21471 ORDER BY outletnameen
+                  
+                    Food & Beverage Outlet
+                    
+                      
+                        
+                          
+                            
+                              Outlet id
+                              Outlet Name
+                              Capacity
+                              Cuisine Type
+                              Remarks
+                            
+                          
+                          	  
+                          
+                            1582
+                            
+                              Cafe bord de Mer & Lounge
+                              
+                            202
+                            
+                            SELECT text FROM v_mehk_cuisinetype ct, v_mehk_fboutletcuisinetype fct where ct.charsetid = 1 AND ct.value = fct.cuisinetypecode AND fct.fboutletid = 1582
+                                Afternoon tea
+                                ,
+                                Asian
+                                ,
+                                Buffet
+                                ,
+                                Café
+                                ,
+                                International Cuisine
+                                ,
+                                Wine
+                                
+                            
+                            
+                              
+                              
+                          
+                          	  
+                          
+                            1583
+                            
+                              The Bounty Entertainment and Sports Bar
+                              
+                            60
+                            
+                            SELECT text FROM v_mehk_cuisinetype ct, v_mehk_fboutletcuisinetype fct where ct.charsetid = 1 AND ct.value = fct.cuisinetypecode AND fct.fboutletid = 1583
+                                Cocktails & Snacks
+                                ,
+                                Music Lounge
+                                ,
+                                Wine
+                                
+                            
+                            
+                              
+                              
+                          
+                          
+                        
+                      
+                    
+                    
+                  
+                  
+          
+          
+                    
+                      Rooms
+                      
+                        
+                          
+                            
+                              
+                                Type
+                                From (HK$)
+                                To (HK$)
+                                No. of Rooms
+                                Remarks
+                              
+                            
+                            
+                                
+                                
+                                  Double
+                                  
+                                1290
+                                2290
+                                153
+                                
+                                  Mountain View/Ocean Front Room
+                                  
+                                
+                                
+                                
+                                
+                                  Twin
+                                  
+                                1290
+                                2290
+                                108
+                                
+                                  Mountain View/Ocean Front Room
+                                  
+                                
+                                
+                                
+                                
+                                  Suite
+                                  
+                                2590
+                                3590
+                                24
+                                
+                                  Mountain View One-bedroom Suite
+                                  
+                                
+                                
+                          
+                        
+                      
+                      
+                    
+                    
+                    
+      
+            
+                    
+                      Facilities
+                      
+                        
+                          
+                            
+                            Accessible Facilities
+                  Accessible Public Toilet , Accessible Rooms , Lift with Audible Announcement System / Braille Button
+                            
+                    
+                            General Amenities and Facilities
+                  Alfresco Dining , Audio Visual Equipment , Banquet Facilities , Bar & Lounge , Beauty Salon , Broadband Internet Access , Business Centre , Coffee Shop , Conference and Meeting Facilities , Connecting Room , Electrical Adaptor on request , Express Check-out , Foreign Currency and Exchange , Laundry / Valet , Limousine Service , Non-smoking Dining Rooms , Non-smoking Floors , Non-smoking Rooms , Regular Shuttle Bus Service , Restaurants , Room Service (24 hours) , Safe Deposit Box - Front Desk , Tour Desk , Wheelchairs on Request
+                            
+                    
+                            In-room Amenities and Facilities
+                  Alarm Clock , Bathrobes , Extra Bed , Free WiFi Access , Hair Dryer , In-room Safe Deposit Box , Infotainment with Video on Demand / Computer Game , Iron & Ironing Board , Shampoo , Shower Cap , Slippers , Tea & Coffee Making Facilities , Tooth Brush , TV with Cable Network , Voice Mail
+                            
+                    
+                            Recreation Facilities
+                  Facial Service , Gymnasium , Jacuzzi / Whirlpool , Massage Service , Sauna , Spa Facilities , Steam Bath , Swimming Pool: Outdoor
+                            
+              
+                          
+                        
+                      
+                      
+                    
+                    
+            
+            
+                    
+                      Photo
+                      
+                        
+                          
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                          
+                        
+                      
+                      
+            
+                    
+                    
+          
+            
+                    
+                      Floor Plan
+                      
+                        
+                          
+                            
+                            Floor Plan 
+                            
+                          
+                        
+                      
+                      
+                      
+                    
+                    
+          
+            
+                
+                  How to Get There
+                  
+                    
+                      
+                        
+                        Located on Lantau Island, midway between Central and Hong Kong International Airport, Auberge Discovery Bay Hong Kong is accessible by land or sea:
+
+Hotel Coach:
+We offer coach service exclusively to hotel guests, transferring guests directly from and to Sunny Bay and to Hong Kong Disneyland.
+
+MTR:
+Guests can arrive at Sunny Bay Station and switch to public bus DB03P (Exit A), or Tung Chung Station (Exit B) and change to public bus DB01R to reach the hotel.
+ 
+Discovery Bay Ferry:
+Cruise to the hotel from Hong Kong Central Pier No. 3 in 25 minutes via a high-speed ferry. Change to bus T4 or T9 to arrive at Hotel. 
+
+Airport Bus:
+ Take one of the two public buses from Bus Bay No.18 of New Coach Station adjacent to Car Park 1 of Cheong Tat Road next to Hong Kong International Airport Terminal 1 and reach the hotel in 25 minutes.
+
+DB02A - Arrive at hotel directly in 25 minutes
+
+DB02R - Arrive at Discovery Bay Plaza. Please alight at the final stop, then change to Bus T4 or T9 to Hotel.
+
+Pick-up service:
+Hotel pick-up service transfers guests from point to point. 
+                        
+                      
+                    
+                  
+                  
+                
+                
+        
+        
+      
+      
+    
+    
+
+  
+                    
+﻿
+
+     
+    
+
+     
+		
+			Venue & Hotel Search
+		
+		
+			e-Marketplace
+		
+		
+			Request for Proposal
+		
+		
+			Subscribe toE-newsletter
+		
+     
+
+
+
+	
+
+	
+		
+		
+			Facebook
+
+		
+	
+﻿
+  
+	
+	
+		
+			General Enquiries
+		
+		
+			HKTB Worldwide Offices
+		
+	
+
+
+
+                    
+                  
+                
+              
+            
+          
+          
+            
+
+
+    
+        
+            
+        
+
+    
+        
+            
+        
+
+    
+        
+            
+        
+
+    
+        
+            
+        
+
+    
+        
+            
+        
+
+    
+        
+            
+        
+
+    
+        
+            
+        
+
+
+
+  
+      
+        
+        
+
+        
+      
+      
+        
+        
+
+        
+            
+            
+            
+            
+              Why Hong Kong
+              
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Strategic Location
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Gateway to China
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Superb Infrastructure
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            World-Leading Venues 
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            Business Friendly Environment
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Professional Support
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Endless Variety
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            Proven Track Record
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+              
+              
+            
+              Meetings & Incentives
+              
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Your Ultimate Rewards City
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Success Stories
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            MICE Activities
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            How We Can Help
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+              
+              
+            
+              Conventions
+              
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Where Quality and Competence Meet
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Success Stories
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            MICE Activities
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            How We Can Help
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+              
+              
+            
+              Exhibitions
+              
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Showcase with Success
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            Success Stories
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            MICE Activities
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            How We Can Help
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+              
+              
+            
+              Products and Offers
+              
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Inspiring Ideas
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            Lantau – Inspirational Destination
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            Hong Kong Rewards! 2018/19
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            Hong Kong Rewards! 2019/20
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+              
+              
+            
+              Planning Tools
+              
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Venue & Hotel Search
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Request for Proposal
+            
+            
+            
+      
+        
+        
+
+        
+            
+            
+            
+            Travel Kits
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+            Download Centre
+            
+            
+            
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+      
+        
+        
+
+        
+            
+            
+            
+              
+              
+            
+              Event Calendar
+              
+            
+            
+            
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        
+        
+
+        
+            
+            
+            
+              
+              
+            
+              Privacy Policy (for EU Site Visitors)
+              
+            
+            
+            
+      
+      
+  
+﻿
+Please consider the environment before printing this page
+
+			
+				
+					Meetings and Exhibitions Hong Kong
+					e-News
+					Sitemap
+					Contact Us
+					News 
+					Follow Us   
+				
+				Copyright © 2014 Hong Kong Tourism Board. All rights reserved. Privacy policy | Cookie policy | Terms of use |  沪ICP备12030823号 |  沪公网安备 31010102004997号
+				
+			
+			
+				
+			
+		
+            
+          
+        
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+      
+
+
+    
