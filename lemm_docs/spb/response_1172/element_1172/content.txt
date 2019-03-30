@@ -1,0 +1,9 @@
+ruen
+http
+vertical
+hotel
+ru
+reservation
+vertical
+hotel
+ru

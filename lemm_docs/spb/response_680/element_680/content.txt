@@ -1,0 +1,10 @@
+ruen
+event
+http
+www
+ammst
+ru
+ammst
+rus
+gmail
+com

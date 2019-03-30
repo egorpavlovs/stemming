@@ -13,8 +13,11 @@ class WebService
   class << self
 
     def init_method()
-      words = %w(architecture art bar cabaret concert creative creativity cultural culture design  festival gallery gastronomy heritage historic history local cousine mansion monument museum music nationality nightclub nightlife oenology palace party restaurant sightseeing theatre university customs tradition traditional excursion)
-
+      words = %w(architecture art bar cabaret concert creative creativity cultural culture design festival
+                  gallery gastronomy heritage historic history local cousine mansion monument museum music
+                  nationality nightclub nightlife oenology palace party restaurant sightseeing theatre
+                  university customs tradition traditional excursion dance religious craft film fashion cuisine)
+      # words = %w(dance religious crafts film fashion cuisine)
       # "barcelonaconventionbureau"=>"http://www.barcelonaconventionbureau.com",уже есть данные
       # data present
       # urls_hash = {
@@ -37,7 +40,8 @@ class WebService
         "seetorontonow"=>"http://partners.seetorontonow.com/",
         "joburgtourism"=>"http://listings.joburgtourism.com",
         "dubaiconventionbureau"=>"http://dubaiconventionbureau.com/",
-        "visitabudhabi"=>"https://visitabudhabi.ae/en/abu.dhabi.convention.bureau.aspx"
+        "visitabudhabi"=>"https://visitabudhabi.ae/en/abu.dhabi.convention.bureau.aspx",
+        "spb"=>"https://saintpetersburgcb.com/en/"
       }
 
 
@@ -50,8 +54,13 @@ class WebService
       #   puts "lemming"
       # end
 
+      # lem = Lemmatizer.new
+      # lem_words = words.map{|w| lem.lemma(w)}
+
       result_array = urls_hash.map do |folder_name, url|
-        find_words_count(folder_name, words, url)
+        puts "find words in #{folder_name}"
+        # find_words_count(folder_name, words, url)
+        words_count_at_lemm_docs(folder_name, url)
       end
       puts result_array
     end
@@ -60,15 +69,52 @@ class WebService
       result = []
       all_paths = Dir["#{L_DOCS_HOME_PATH}/#{folder_name}/*/*/*"]
 
+      uniq_files = [all_paths.first]
+      puts "uniq"
+      all_paths.each do |file_path|
+        # p file_path
+        # p uniq_files
+        repeating_files = []
+        uniq_files.each do |uniq_file|
+          words_from_file = File.read(file_path).split("\n")
+          words_from_uniq_file = File.read(uniq_file).split("\n")
+          diff = words_from_file - words_from_uniq_file
+          # p diff.empty?
+          repeating_files << uniq_file unless diff.empty?
+        end
+
+        if repeating_files.empty?
+          uniq_files << file_path
+        end
+      end
+      p "uniq_files.count #{uniq_files.count}"
+      puts "check words"
+
       words.each do |word|
         count = 0
-        all_paths.each do |file_path|
+        uniq_files.each do |file_path|
           words_from_file = File.read(file_path).split("\n")
           count += words_from_file.count{ |element| element.match(word) }
         end
         result << [word, count]
+        # uniq_files.each do |uniq_file|
+        #   puts "OLOLOLO tut nil" if uniq_file.nil?
+        #   next if uniq_file.nil?
+        #   words_from_uniq_file = File.read(uniq_file).split("\n")
+        #   count += words_from_uniq_file.count{ |element| element.match(word) }
+        # end
+        # result << [word, count]
       end
       "#{url}: #{result}"
+    end
+
+    def words_count_at_lemm_docs(folder_name, url)
+      all_paths = Dir["#{L_DOCS_HOME_PATH}/#{folder_name}/*/*/*"]
+      count = 0
+      all_paths.each do |file_path|
+        count += File.read(file_path).split("\n").compact.count
+      end
+      [url, count].join(" = ")
     end
 
 
@@ -123,6 +169,11 @@ class WebService
         end
       end
     end
+
+    def lemm_word(word)
+      lem = Lemmatizer.new
+      lem.lemma(word)
+    end
   end
 end
 
@@ -132,3 +183,5 @@ url = "http://www.barcelonaconventionbureau.com"
 # puts WebService.find_words_count(folder_name, words, url)
 
 WebService.init_method()
+
+# p WebService.lemm_word('traditional')

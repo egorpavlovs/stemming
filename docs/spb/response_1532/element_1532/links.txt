@@ -1,0 +1,8 @@
+https://www.facebook.com/spbcb
+https://twitter.com/StPetersburg_CB
+https://vk.com/sclspb
+https://www.facebook.com/events/599365760434469/
+https://www.youtube.com/playlist?list=PL-jfce5OJ5a3-3J7WeBKe_vhBul1KlRKm
+https://api.addthis.com/oexchange/0.8/forward/vk/offer?pubid=ra-547c6f2635f2b206&ct=1&title=Петербург примет один из этапов Парусной Лиги Чемпионов Европы 2018&pco=tbxnj-1.0
+https://api.addthis.com/oexchange/0.8/forward/facebook/offer?pubid=ra-547c6f2635f2b206&ct=1&title=Петербург примет один из этапов Парусной Лиги Чемпионов Европы 2018&pco=tbxnj-1.0
+https://api.addthis.com/oexchange/0.8/forward/twitter/offer?pubid=ra-547c6f2635f2b206&ct=1&title=Петербург примет один из этапов Парусной Лиги Чемпионов Европы 2018&pco=tbxnj-1.0

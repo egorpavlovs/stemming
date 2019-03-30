@@ -1,0 +1,6 @@
+https://www.facebook.com/spbcb
+https://twitter.com/StPetersburg_CB
+https://e.mail.ru/compose?To=waste@etu.ru
+https://api.addthis.com/oexchange/0.8/forward/vk/offer?pubid=ra-547c6f2635f2b206&ct=1&title=На базе ЛЭТИ пройдёт конференция «WASTE`2018: Управление муниципальными отходами как важный фактор устойчивого развития мегаполиса»&pco=tbxnj-1.0
+https://api.addthis.com/oexchange/0.8/forward/facebook/offer?pubid=ra-547c6f2635f2b206&ct=1&title=На базе ЛЭТИ пройдёт конференция «WASTE`2018: Управление муниципальными отходами как важный фактор устойчивого развития мегаполиса»&pco=tbxnj-1.0
+https://api.addthis.com/oexchange/0.8/forward/twitter/offer?pubid=ra-547c6f2635f2b206&ct=1&title=На базе ЛЭТИ пройдёт конференция «WASTE`2018: Управление муниципальными отходами как важный фактор устойчивого развития мегаполиса»&pco=tbxnj-1.0

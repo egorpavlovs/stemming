@@ -1,0 +1,6 @@
+https://www.facebook.com/spbcb
+https://twitter.com/StPetersburg_CB
+https://www.gov.spb.ru/gov/otrasl/kom_zan/news/157924/
+https://api.addthis.com/oexchange/0.8/forward/vk/offer?pubid=ra-547c6f2635f2b206&ct=1&title=Извещение о проведении конкурсного отбора на право получения субсидии, в связи с проведением Санкт-Петербургского Международного форума труда в 2019 году 27.02.2019 - 02.03.2019&pco=tbxnj-1.0
+https://api.addthis.com/oexchange/0.8/forward/facebook/offer?pubid=ra-547c6f2635f2b206&ct=1&title=Извещение о проведении конкурсного отбора на право получения субсидии, в связи с проведением Санкт-Петербургского Международного форума труда в 2019 году 27.02.2019 - 02.03.2019&pco=tbxnj-1.0
+https://api.addthis.com/oexchange/0.8/forward/twitter/offer?pubid=ra-547c6f2635f2b206&ct=1&title=Извещение о проведении конкурсного отбора на право получения субсидии, в связи с проведением Санкт-Петербургского Международного форума труда в 2019 году 27.02.2019 - 02.03.2019&pco=tbxnj-1.0

@@ -1,0 +1,6 @@
+https://www.facebook.com/spbcb
+https://twitter.com/StPetersburg_CB
+https://events.vedomosti.ru/events/eshow18?utm_source=saintpetersburgcb&utm_medium=annoucement&utm_campaign=saintpetersburgcbeshow18
+https://api.addthis.com/oexchange/0.8/forward/vk/offer?pubid=ra-547c6f2635f2b206&ct=1&title=3–4 октября в Москве состоится XIII ежегодная конференция Event Show 2018, организованная деловым изданием «Ведомости»&pco=tbxnj-1.0
+https://api.addthis.com/oexchange/0.8/forward/facebook/offer?pubid=ra-547c6f2635f2b206&ct=1&title=3–4 октября в Москве состоится XIII ежегодная конференция Event Show 2018, организованная деловым изданием «Ведомости»&pco=tbxnj-1.0
+https://api.addthis.com/oexchange/0.8/forward/twitter/offer?pubid=ra-547c6f2635f2b206&ct=1&title=3–4 октября в Москве состоится XIII ежегодная конференция Event Show 2018, организованная деловым изданием «Ведомости»&pco=tbxnj-1.0

@@ -1,0 +1,6 @@
+https://www.facebook.com/spbcb
+https://twitter.com/StPetersburg_CB
+https://docs.google.com/forms/d/e/1FAIpQLSeHVWolVctyh4cG4JqGPye0rSr0VCRVBCjy3CpEJyZGP3UWqg/viewform?c=0&w=1
+https://api.addthis.com/oexchange/0.8/forward/vk/offer?pubid=ra-547c6f2635f2b206&ct=1&title=Петербург будет презентован в Латинской Америке&pco=tbxnj-1.0
+https://api.addthis.com/oexchange/0.8/forward/facebook/offer?pubid=ra-547c6f2635f2b206&ct=1&title=Петербург будет презентован в Латинской Америке&pco=tbxnj-1.0
+https://api.addthis.com/oexchange/0.8/forward/twitter/offer?pubid=ra-547c6f2635f2b206&ct=1&title=Петербург будет презентован в Латинской Америке&pco=tbxnj-1.0
