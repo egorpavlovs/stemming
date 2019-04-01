@@ -19,6 +19,7 @@ class Stemmer
         tokenize_words.uniq.each{ |word|
           File.open([s_path, "content.txt"].flatten.join("/"), "a") {|file| file.puts(word)}
         }
+        FileUtils.cp([path, 'links.txt'].join('/'), [s_path, "links.txt"].join("/"))
       end
     end
 
