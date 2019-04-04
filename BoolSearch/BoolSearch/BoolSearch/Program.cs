@@ -2,25 +2,29 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using ICSharpCode.SharpZipLib.Checksums;
 
 namespace BoolSearch
 {
     class Program
     {
+        private const string PathToDocs = "F:\\Учеба\\stemming\\stemming_docs";
+        private const string PathToTable = "F:\\Учеба\\stemming\\BoolSearch\\BoolSearch";
+
         static void Main(string[] args)
         {
             Console.WriteLine("Enter the path to documents.");
             string pathToFiles = Console.ReadLine();
             if (!Directory.Exists(pathToFiles))
             {
-                throw new DirectoryNotFoundException();
+                pathToFiles = Program.PathToDocs;
             }
 
             Console.WriteLine("Enter the path to store table.");
             var pathToTable = Console.ReadLine();
             if (!Directory.Exists(pathToTable))
             {
-                throw new DirectoryNotFoundException();
+                pathToTable = Program.PathToTable;
             }
 
             var files = Directory.GetFiles(pathToFiles, "*", SearchOption.AllDirectories);
@@ -34,8 +38,27 @@ namespace BoolSearch
 
             var res = tg.Search(query);
 
-            res.ForEach(Console.WriteLine);
+            GetLinks(res.ToArray()).ForEach(Console.WriteLine);
             Console.ReadLine();
+        }
+
+        private static List<string> GetLinks(string[] paths)
+        {
+            var set = new HashSet<string>();
+            foreach (var path in paths)
+            {
+                var newPath = path.Replace("content", "links");
+                using (StreamReader reader = new StreamReader(newPath))
+                {
+                    string line;
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        set.Add(line);
+                    }
+                }
+            }
+
+            return set.ToList();
         }
     }
 }
