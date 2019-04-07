@@ -1,0 +1,3 @@
+https://jsonapi.org/recommendations/#naming
+https://twitter.com/jsonapi
+https://discuss.jsonapi.org

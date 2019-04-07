@@ -1,0 +1,7 @@
+https://jsonapi.org/format/1.1/#profiles
+https://jsonapi.org/format/1.1/#document-member-names-at-members
+https://jsonapi.org/format/1.1/#error-objects
+https://jsonapi.org/format/1.1/#query-parameters
+https://jsonapi.org/recommendations/#naming
+https://twitter.com/jsonapi
+https://discuss.jsonapi.org

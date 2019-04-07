@@ -10,16 +10,17 @@ class Stemmer
     def all_docs
       all_paths = Dir["#{DOCS_HOME_PATH}/*/*/"]
       words = all_paths.map do |path|
-        content = File.open([path, "content.txt"].join("/"), "r"){ |f| f.read }
-        stop_words = File.open("stop_words", "r"){ |f| f.read }.split("\n")
+        # content = File.open([path, "content.txt"].join("/"), "r"){ |f| f.read }
+        # stop_words = File.open("stop_words", "r"){ |f| f.read }.split("\n")
 
-        tokenize_words = tokenize(content, stop_words).map { |word| Lingua.stemmer(word) unless word.nil? }.compact
+        # tokenize_words = tokenize(content, stop_words).map { |word| Lingua.stemmer(word) unless word.nil? }.compact
         s_path = FileUtils.mkdir_p([S_DOCS_HOME_PATH, path.split("/").drop(1)].flatten.join("/"))
-        puts s_path
-        tokenize_words.uniq.each{ |word|
-          File.open([s_path, "content.txt"].flatten.join("/"), "a") {|file| file.puts(word)}
-        }
-        FileUtils.cp([path, 'links.txt'].join('/'), [s_path, "links.txt"].join("/"))
+        # puts s_path
+        # tokenize_words.uniq.each{ |word|
+        #   File.open([s_path, "content.txt"].flatten.join("/"), "a") {|file| file.puts(word)}
+        # }
+        # FileUtils.cp([path, 'links.txt'].join('/'), [s_path, "links.txt"].join("/"))
+        FileUtils.cp([path, 'all_links.txt'].join('/'), [s_path, "all_links.txt"].join("/"))
       end
     end
 

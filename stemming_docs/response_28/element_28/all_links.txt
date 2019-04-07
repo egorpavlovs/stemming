@@ -1,0 +1,8 @@
+https://jsonapi.org/format/#document-top-level
+https://jsonapi.org/format/1.1/#profile-keywords-and-aliases
+https://jsonapi.org/format/1.1/#profiles-processing
+https://jsonapi.org/format/#fetching-pagination
+https://jsonapi.org/format/#error-objects
+https://jsonapi.org/format/1.1/#profile-keywords-and-aliases
+https://twitter.com/jsonapi
+https://discuss.jsonapi.org
