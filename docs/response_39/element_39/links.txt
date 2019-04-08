@@ -1,0 +1,1 @@
+https://discuss.jsonapi.org/latest?no_definitions=true&no_subcategories=false&page=1
