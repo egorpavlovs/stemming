@@ -20,29 +20,29 @@ class WebService
       # words = %w(dance religious crafts film fashion cuisine)
       # "barcelonaconventionbureau"=>"http://www.barcelonaconventionbureau.com",уже есть данные
       # data present
-      # urls_hash = {
-      #   "parisinfo"=>"http://en.convention.parisinfo.com"
-      # }
       urls_hash = {
-        "barcelonaconventionbureau"=>"http://www.barcelonaconventionbureau.com",
-        "parisinfo"=>"http://en.convention.parisinfo.com",
-        "vienna"=>"https://www.vienna.convention.at/en",
-        "visitberlin"=>"https://convention.visitberlin.de/en",
-        "london"=>"https://conventionbureau.london/",
-        "visitsingapore"=>"https://www.visitsingapore.com/mice/en/about-us/about-secb/",
-        "miceseoul"=>"http://www.miceseoul.com/",
-        "mehongkong"=>"https://mehongkong.com",
-        "businesseventsthailand"=>"https://www.businesseventsthailand.com",
-        "tcvb"=>"https://www.tcvb.or.jp/en/",
-        "buenosairesbureau"=>"http://www.buenosairesbureau.com/en",
-        "congresmtl"=>"https://congresmtl.com/en/",
-        "limaconvention"=>"http://limaconvention.com/en/",
-        "seetorontonow"=>"http://partners.seetorontonow.com/",
-        "joburgtourism"=>"http://listings.joburgtourism.com",
-        "dubaiconventionbureau"=>"http://dubaiconventionbureau.com/",
-        "visitabudhabi"=>"https://visitabudhabi.ae/en/abu.dhabi.convention.bureau.aspx",
-        "spb"=>"https://saintpetersburgcb.com/en/"
+        "toronto"=>"http://meetings.seetorontonow.com"
       }
+      # urls_hash = {
+      #   "barcelonaconventionbureau"=>"http://www.barcelonaconventionbureau.com",
+      #   "parisinfo"=>"http://en.convention.parisinfo.com",
+      #   "vienna"=>"https://www.vienna.convention.at/en",
+      #   "visitberlin"=>"https://convention.visitberlin.de/en",
+      #   "london"=>"https://conventionbureau.london/",
+      #   "visitsingapore"=>"https://www.visitsingapore.com/mice/en/about-us/about-secb/",
+      #   "miceseoul"=>"http://www.miceseoul.com/",
+      #   "mehongkong"=>"https://mehongkong.com",
+      #   "businesseventsthailand"=>"https://www.businesseventsthailand.com",
+      #   "tcvb"=>"https://www.tcvb.or.jp/en/",
+      #   "buenosairesbureau"=>"http://www.buenosairesbureau.com/en",
+      #   "congresmtl"=>"https://congresmtl.com/en/",
+      #   "limaconvention"=>"http://limaconvention.com/en/",
+      #   "seetorontonow"=>"http://partners.seetorontonow.com/",
+      #   "joburgtourism"=>"http://listings.joburgtourism.com",
+      #   "dubaiconventionbureau"=>"http://dubaiconventionbureau.com/",
+      #   "visitabudhabi"=>"https://visitabudhabi.ae/en/abu.dhabi.convention.bureau.aspx",
+      #   "spb"=>"https://saintpetersburgcb.com/en/"
+      # }
 
 
       # urls_hash.each do |folder_name, url|
@@ -59,8 +59,8 @@ class WebService
 
       result_array = urls_hash.map do |folder_name, url|
         puts "find words in #{folder_name}"
-        # find_words_count(folder_name, words, url)
-        words_count_at_lemm_docs(folder_name, url)
+        find_words_count(folder_name, words, url)
+        # words_count_at_lemm_docs(folder_name, url)
       end
       puts result_array
     end
@@ -87,14 +87,16 @@ class WebService
           uniq_files << file_path
         end
       end
+
+      # p uniq_files
       p "uniq_files.count #{uniq_files.count}"
       puts "check words"
 
       words.each do |word|
         count = 0
-        uniq_files.each do |file_path|
+        all_paths.each do |file_path|
           words_from_file = File.read(file_path).split("\n")
-          count += words_from_file.count{ |element| element.match(word) }
+          count += words_from_file.count{ |element| element == word }
         end
         result << [word, count]
         # uniq_files.each do |uniq_file|
@@ -177,11 +179,11 @@ class WebService
   end
 end
 
-words = %w(architecture art bar cabaret concert creative creativity cultural culture design  festival gallery gastronomy heritage historic history local cousine mansion monument museum music nationality nightclub nightlife oenology palace party restaurant sightseeing theatre university customs tradition traditional excursion)
-folder_name = "barcelonaconventionbureau"
-url = "http://www.barcelonaconventionbureau.com"
+# words = %w(architecture art bar cabaret concert creative creativity cultural culture design  festival gallery gastronomy heritage historic history local cousine mansion monument museum music nationality nightclub nightlife oenology palace party restaurant sightseeing theatre university customs tradition traditional excursion)
+folder_name = "toronto"
+url = "http://meetings.seetorontonow.com"
+  # WebService.web_crawler(url, folder_name)
 # puts WebService.find_words_count(folder_name, words, url)
-
 WebService.init_method()
-
+  # WebService.lemming(folder_name)
 # p WebService.lemm_word('traditional')
